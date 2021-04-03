@@ -1,0 +1,801 @@
+Imdb Title Id,Title,Year of Release,Date Published,Genre,Duration(min),Country,Language,Director,Production Company,Average Vote,Votes,User Reviews,Critic Reviews
+tt0000009,Miss Jerry,1894,10/9/1894,Romance,45,USA,English,Alexander Black,Alexander Black Photoplays,5.9,154,1,2
+tt0000574,The Story of the Kelly Gang,1906,12/26/1906,"Biography, Crime, Drama",70,Australia,English,Charles Tait,J. and N. Tait,6.1,589,7,7
+tt0001892,Den sorte drøm,1911,8/19/1911,Drama,53,"Germany, Denmark",Spanish,Urban Gad,Fotorama,5.8,188,5,2
+tt0002101,Cleopatra,1912,11/13/1912,"Drama, History",100,USA,English,Charles L. Gaskill,Helen Gardner Picture Players,5.2,446,25,3
+tt0002130,L'Inferno,1911,3/6/1911,"Adventure, Drama, Fantasy",68,Italy,Italian,"Francesco Bertolini, Adolfo Padovan",Milano Film,7,"2,237.00",31,14
+tt0002199,"From the Manger to the Cross; or, Jesus of Nazareth",1912,3/27/1905,"Biography, Drama",60,USA,English,Sidney Olcott,Kalem Company,5.7,484,13,5
+tt0002423,Madame DuBarry,1919,11/26/1919,"Biography, Drama, Romance",85,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6.8,753,12,9
+tt0002445,Quo Vadis?,1913,3/1/1913,"Drama, History",120,Italy,Italian,Enrico Guazzoni,Società Italiana Cines,6.2,273,7,5
+tt0002452,Independenta Romaniei,1912,9/1/1912,"History, War",120,Romania,English,"Aristide Demetriade, Grigore Brezeanu",Societatea Filmului de Arta Leon Popescu,6.7,198,4,1
+tt0002461,Richard III,1912,10/15/1912,Drama,55,"France, USA",English,"André Calmettes, James Keane",Le Film d'Art,5.5,225,8,1
+tt0002646,Atlantis,1913,12/26/1913,Drama,121,Denmark,Danish,August Blom,Nordisk Film,6.6,331,9,9
+tt0002844,Fantômas - À l'ombre de la guillotine,1913,5/12/1913,"Crime, Drama",54,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7,"1,944.00",9,28
+tt0003014,Il calvario di una madre,1913,10/18/1915,Drama,96,Sweden,English,Victor Sjöström,Svenska Biografteatern AB,7.1,948,16,7
+tt0003037,Juve contre Fantômas,1913,9/8/1913,"Crime, Drama",61,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7,"1,349.00",8,23
+tt0003102,Ma l'amor mio non muore...,1914,1/1/1914,Drama,90,Italy,Italian,Mario Caserini,Film Artistica Gloria,6.2,,3,4
+tt0003131,Maudite soit la guerre,1914,5/1/1914,"Drama, War",50,Belgium,French,Alfred Machin,Belge Cinéma Film,6.5,124,2,2
+tt0003165,Le mort qui tue,1913,11/6/1913,"Crime, Drama, Mystery",90,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7,"1,050.00",6,18
+tt0003167,Amore di madre,1914,5/17/1914,Drama,55,USA,English,D.W. Griffith,Majestic Motion Picture Company,5.8,187,6,3
+tt0003419,Lo studente di Praga,1913,8/22/1913,"Drama, Fantasy, Horror",85,Germany,German,"Paul Wegener, Stellan Rye",Deutsche Bioscop GmbH,6.5,"1,768.00",20,26
+tt0003471,Traffic in Souls,1913,11/24/1913,"Crime, Drama",88,USA,English,George Loane Tucker,Independent Moving Pictures Co. of America (IMP),6,552,14,11
+tt0003489,Gli ultimi giorni di Pompei,1913,8/24/1913,"Adventure, Drama",88,Italy,Italian,"Mario Caserini, Eleuterio Rodolfi",Società Anonima Ambrosio,6.2,474,13,7
+tt0003637,Assunta Spina,1915,5/1/1916,Drama,72,Italy,Spanish,"Francesca Bertini, Gustavo Serena",Caesar Film,6.4,378,7,2
+tt0003643,The Avenging Conscience: or 'Thou Shalt Not Kill',1914,8/24/1914,"Crime, Drama, Horror",78,USA,English,D.W. Griffith,Majestic Motion Picture Company,6.4,"1,105.00",14,11
+tt0003657,The Bargain,1914,12/3/1914,Western,70,USA,English,Reginald Barker,New York Motion Picture,6.5,144,8,3
+tt0003740,Cabiria,1914,4/18/1914,"Adventure, Drama, History",148,Italy,Italian,Giovanni Pastrone,Itala Film,7.1,"3,073.00",31,26
+tt0003772,Cinderella,1914,12/28/1914,"Fantasy, Drama",52,USA,English,James Kirkwood,Famous Players Film Company,6,929,10,3
+tt0003883,L'enfant de Paris,1913,9/17/1913,"Crime, Drama",124,France,French,Léonce Perret,Société des Etablissements L. Gaumont,7.5,303,7,4
+tt0003930,Fantômas contre Fantômas,1914,1/10/1914,"Crime, Drama",59,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,6.9,"1,161.00",5,18
+tt0003973,A Florida Enchantment,1914,9/4/1916,Comedy,63,USA,English,Sidney Drew,Vitagraph Company of America,5.8,202,6,3
+tt0004026,Der Golem,1915,4/8/1915,Horror,60,Germany,German,"Henrik Galeen, Paul Wegener",Deutsche Bioscop GmbH,6.8,"1,040.00",5,
+tt0004066,Det hemmelighedsfulde X,1914,3/23/1914,"Drama, Mystery",84,Denmark,Danish,Benjamin Christensen,Dansk Biograf Compagni,7,503,7,4
+tt0004099,"His Majesty, the Scarecrow of Oz",1914,10/14/1914,"Family, Fantasy, Adventure",59,USA,English,J. Farrell MacDonald,The Oz Film Manufacturing Company,5.2,415,,7
+tt0004134,Hypocrites,1915,1/20/1915,Drama,54,USA,English,Lois Weber,Hobart Bosworth Productions,6.6,456,41,9
+tt0004150,In the Land of the Head Hunters,1914,12/7/1914,"Drama, History",65,"USA, Canada",English,Edward S. Curtis,Seattle Film Co.,5.8,402,8,11
+tt0004181,Judith of Bethulia,1914,3/8/1914,Drama,61,USA,English,D.W. Griffith,Biograph Company,6.1,"1,239.00",16,9
+tt0004457,The Patchwork Girl of Oz,1914,9/28/1914,"Adventure, Family, Fantasy",81,USA,English,J. Farrell MacDonald,The Oz Film Manufacturing Company,5.5,382,16,5
+tt0004465,The Perils of Pauline,1914,3/23/1914,"Action, Adventure, Drama",199,USA,English,"Louis J. Gasnier, Donald MacKenzie",Pathé Frères,6.3,939,5,8
+tt0004635,The Squaw Man,1914,2/15/1914,"Action, Drama, Romance",74,USA,English,"Oscar Apfel, Cecil B. DeMille",Jesse L. Lasky Feature Play Company,5.7,879,8,3
+tt0004681,La madonnina del porto,1914,3/30/1914,Drama,80,USA,English,Edwin S. Porter,Famous Players Film Company,6.1,178,5,3
+tt0004707,Tillie's Punctured Romance,1914,12/21/1914,Comedy,82,USA,English,"Mack Sennett, Charles Bennett",Keystone Film Company,6.3,"3,250.00",38,18
+tt0004712,A tolonc,1915,3/20/1915,Drama,67,Hungary,Hungarian,Michael Curtiz,ProJa Filmgyár,6.3,165,1,9
+tt0004743,Uncle Tom's Cabin,1914,8/10/1914,Drama,54,USA,English,William Robert Daly,World Film,5.3,112,4,
+tt0004766,The Virginian,1914,9/7/1914,Western,55,USA,English,Cecil B. DeMille,Jesse L. Lasky Feature Play Company,5.6,174,12,
+tt0004825,The Wishing Ring: An Idyll of Old England,1914,11/9/1914,"Comedy, Drama",54,USA,English,Maurice Tourneur,Shubert Film Corporation,6.4,,6,2
+tt0004838,The Wrath of the Gods,1914,6/8/1914,"Drama, Romance",56,USA,English,Reginald Barker,New York Motion Picture,5.7,138,5,2
+tt0004872,Alias Jimmy Valentine,1915,2/22/1915,"Crime, Drama",65,USA,English,Maurice Tourneur,Peerless Productions,6.6,206,4,3
+tt0004873,Alice in Wonderland,1915,1/19/1915,"Adventure, Family, Fantasy",52,USA,English,W.W. Young,Nonpareil Feature Film Corp.,6.2,394,11,8
+tt0004972,Nascita di una nazione,1915,3/21/1915,"Drama, History, War",195,USA,English,D.W. Griffith,David W. Griffith Corp.,6.3,"22,213.00",368,97
+tt0005060,Carmen,1915,10/31/1915,Drama,59,USA,English,Cecil B. DeMille,Jesse L. Lasky Feature Play Company,6.4,894,20,8
+tt0005078,The Cheat,1915,12/13/1915,"Drama, Romance",59,USA,English,Cecil B. DeMille,Jesse L. Lasky Feature Play Company,6.6,"2,305.00",38,19
+tt0005149,The Coward,1915,11/14/1915,"Drama, History, War",77,USA,English,"Reginald Barker, Thomas H. Ince",Kay-Bee Pictures,6,244,15,3
+tt0005339,La vampira,1915,1/12/1915,Drama,67,USA,English,Frank Powell,Fox Film Corporation,5.8,783,20,14
+tt0005402,The Golden Chance,1915,12/30/1915,Drama,74,USA,English,Cecil B. DeMille,Jesse L. Lasky Feature Play Company,6.4,187,10,1
+tt0005529,Hævnens Nat,1916,9/25/1916,"Crime, Drama, Horror",100,Denmark,English,Benjamin Christensen,Dansk Biograf Compagni,6.8,268,7,2
+tt0005557,The Italian,1915,1/1/1915,Drama,72,USA,English,Reginald Barker,New York Motion Picture,6.6,293,13,3
+tt0005680,Maciste,1915,3/29/1905,Adventure,67,Italy,Italian,"Luigi Romano Borgnetto, Vincenzo Denizot",Itala Film,5.9,130,3,5
+tt0005719,Martyrs of the Alamo,1915,11/21/1915,"Drama, History, War",71,USA,English,Christy Cabanne,Fine Arts Film Company,5.6,138,5,1
+tt0005809,The Nigger,1915,3/29/1915,Drama,50,USA,English,Edgar Lewis,Fox Film Corporation,6.1,300,3,3
+tt0005916,Posle smerti,1915,12/29/1915,Drama,46,Russia,Russian,Yevgeny Bauer,Khanzhonkov,6.9,794,11,6
+tt0005951,Rapsodia satanica,1917,7/1/1917,"Drama, Fantasy, Horror",55,Italy,English,Nino Oxilia,Società Italiana Cines,6.9,597,5,5
+tt0005960,La rigenerazione,1915,9/13/1915,"Biography, Crime, Drama",72,USA,English,Raoul Walsh,Fox Film Corporation,6.8,"1,110.00",17,15
+tt0006206,I vampiri,1915,11/13/1915,"Action, Adventure, Crime",421,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7.3,"4,166.00",25,53
+tt0006327,Young Romance,1915,1/21/1915,Comedy,59,USA,English,George Melford,Jesse L. Lasky Feature Play Company,5.9,151,7,1
+tt0006333,"20,000 Leagues Under the Sea",1916,12/24/1916,"Action, Adventure, Sci-Fi",105,USA,English,Stuart Paton,Williamson Submarine Film Corporation,6.2,"1,501.00",28,24
+tt0006509,The Children in the House,1916,4/30/1916,Drama,50,USA,English,"Chester M. Franklin, Sidney Franklin",Fine Arts Film Company,4.5,559,5,3
+tt0006517,Civilization,1915,6/2/1916,Drama,85,USA,English,"Reginald Barker, Thomas H. Ince",Thomas H. Ince Corporation,6,283,8,6
+tt0006589,The Devil's Needle,1916,8/13/1916,Drama,59,USA,English,Chester Withey,Fine Arts Film Company,6.8,123,4,11
+tt0006617,Dödskyssen,1916,8/25/1916,"Comedy, Crime, Drama",60,Sweden,English,Victor Sjöström,Svenska Biografteatern AB,6.1,199,,1
+tt0006688,Flirting with Fate,1916,7/9/1916,"Adventure, Comedy",57,USA,English,Christy Cabanne,Fine Arts Film Company,6.4,143,6,3
+tt0006731,Going Straight,1916,6/4/1916,"Crime, Drama",60,USA,English,"Chester M. Franklin, Sidney Franklin",Fine Arts Film Company,5.3,609,7,
+tt0006736,The Good Bad-Man,1916,4/21/1916,"Romance, Western",50,USA,English,Allan Dwan,Fine Arts Film Company,6.6,,5,2
+tt0006745,Gretchen the Greenhorn,1916,9/3/1916,"Crime, Drama, Romance",58,USA,English,"Chester M. Franklin, Sidney Franklin",Fine Arts Film Company,5.7,479,7,1
+tt0006753,The Half-Breed,1916,7/30/1916,Western,73,USA,English,Allan Dwan,Fine Arts Film Company,6.6,147,9,6
+tt0006780,Hell's Hinges,1916,3/5/1916,"Romance, Western",64,USA,English,"Charles Swickard, William S. Hart",Kay-Bee Pictures,6.8,836,21,11
+tt0006809,His Picture in the Papers,1916,2/13/1916,Comedy,62,USA,English,John Emerson,Fine Arts Film Company,5.9,127,8,4
+tt0006826,Hoodoo Ann,1916,3/26/1916,"Comedy, Drama, Romance",65,USA,English,Lloyd Ingraham,Fine Arts Film Company,5.6,837,12,3
+tt0006864,Intolerance,1916,2/24/1918,"Drama, History",163,USA,English,D.W. Griffith,Triangle Film Corporation,7.8,"13,875.00",111,77
+tt0006886,Judex,1916,1/19/1917,"Adventure, Crime",300,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7.4,867,11,15
+tt0007047,The Matrimaniac,1916,12/16/1916,"Comedy, Romance",46,USA,English,Paul Powell,Fine Arts Film Company,6,573,6,
+tt0007183,Pikovaya dama,1916,4/1/1916,"Drama, Fantasy, Horror",63,Russia,Russian,Yakov Protazanov,Paramount Pictures,7,610,7,5
+tt0007257,Reggie Mixes In,1916,6/11/1916,"Action, Comedy, Drama",50,USA,English,Christy Cabanne,Fine Arts Film Company,4.7,564,4,3
+tt0007260,The Return of Draw Egan,1916,10/15/1916,"Action, Adventure, Romance",50,USA,English,William S. Hart,Kay-Bee Pictures,6.5,141,6,1
+tt0007309,Schuhpalast Pinkus,1916,5/1/1916,Comedy,45,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),5.6,183,2,1
+tt0007338,Sherlock Holmes,1916,5/15/1916,Mystery,116,USA,English,Arthur Berthelet,The Essanay Film Manufacturing Company,6.4,313,10,16
+tt0007340,Shoes,1916,6/26/1916,Drama,60,USA,English,Lois Weber,Universal Film Manufacturing Company,6.8,342,3,7
+tt0007361,Snow White,1916,12/25/1916,"Fantasy, Romance",63,USA,English,J. Searle Dawley,Famous Players Film Company,6.2,349,13,5
+tt0007367,The Social Secretary,1916,9/17/1916,"Comedy, Drama",52,USA,English,John Emerson,Fine Arts Film Company,5.3,509,11,2
+tt0007522,Vingarne,1916,9/4/1916,Drama,69,Sweden,English,Mauritz Stiller,Svenska Biografteatern AB,5.8,100,3,
+tt0007558,Where Are My Children?,1916,5/1/1916,Drama,62,USA,English,"Phillips Smalley, Lois Weber",Lois Weber Productions,6.3,591,25,7
+tt0007610,'49-'17,1917,10/15/1917,"Drama, Western",61,USA,English,Ruth Ann Baldwin,Universal Film Manufacturing Company,5.9,267,12,2
+tt0007755,Bucking Broadway,1917,12/24/1917,Western,53,USA,English,John Ford,Universal Film Manufacturing Company,6,468,9,7
+tt0007801,Cleopatra,1917,10/14/1917,"Biography, Drama, History",125,USA,English,J. Gordon Edwards,Fox Film Corporation,6.5,298,3,3
+tt0007983,Furcht,1917,11/12/1917,Horror,72,Germany,English,Robert Wiene,Paramount Pictures,6.1,129,3,
+tt0008011,A Girl's Folly,1917,2/26/1917,Comedy,65,USA,English,Maurice Tourneur,Paragon Films,6.1,135,8,2
+tt0008100,L'astronave,1918,2/22/1918,"Adventure, Fantasy, Sci-Fi",97,Denmark,English,Holger-Madsen,Nordisk Film,6.5,585,14,13
+tt0008150,Joan the Woman,1916,12/25/1916,"Adventure, Drama, History",138,USA,English,Cecil B. DeMille,Paramount Pictures,6.5,501,17,8
+tt0008188,The Little American,1917,7/12/1917,"Drama, Romance, War",80,USA,English,"Cecil B. DeMille, Joseph Levering",Mary Pickford Company,5.9,608,12,5
+tt0008196,The Little Princess,1917,11/11/1917,Drama,62,USA,English,Marshall Neilan,Mary Pickford Company,5.7,638,,2
+tt0008279,Desiderata,1917,3/7/1917,Drama,80,France,English,Abel Gance,Films de France,6.4,109,3,1
+tt0008309,A Modern Musketeer,1917,12/30/1917,"Adventure, Comedy, Western",68,USA,English,Allan Dwan,Douglas Fairbanks Pictures,6.7,257,11,7
+tt0008395,Otets Sergiy,1918,4/2/1905,"Biography, Drama, History",112,Russia,English,"Yakov Protazanov, Alexandre Volkoff",Yermoliev,7.1,458,6,3
+tt0008443,The Poor Little Rich Girl,1917,3/5/1917,"Comedy, Drama, Family",65,USA,English,Maurice Tourneur,Artcraft Pictures Corporation,6.7,"1,266.00",16,13
+tt0008489,"Raffles, the Amateur Cracksman",1917,12/15/1917,"Adventure, Crime, Romance",70,USA,English,George Irving,Hyclass Producing Company,6.4,,3,3
+tt0008499,Rebecca of Sunnybrook Farm,1917,9/22/1917,"Comedy, Drama",78,USA,English,Marshall Neilan,Mary Pickford Company,6.1,770,9,5
+tt0008519,A Romance of the Redwoods,1917,5/14/1917,"Adventure, Comedy, Drama",91,USA,English,Cecil B. DeMille,Artcraft Pictures Corporation,5.7,727,12,4
+tt0008536,Satana likuyushchiy,1917,10/21/1917,Drama,87,Russia,English,Yakov Protazanov,Yermoliev,6.9,147,1,1
+tt0008634,Straight Shooting,1917,8/27/1917,Western,57,USA,English,John Ford,Universal Film Manufacturing Company,6.2,372,10,17
+tt0008652,A Tale of Two Cities,1917,3/11/1917,"Drama, History, Romance",70,USA,English,Frank Lloyd,Fox Film Corporation,6,108,6,1
+tt0008663,Terje Vigen,1917,1/29/1917,"Drama, War",48,Sweden,English,Victor Sjöström,Svenska Biografteatern AB,7.4,"1,508.00",12,9
+tt0008672,Thomas Graals bästa film,1917,8/13/1917,Comedy,52,Sweden,English,Mauritz Stiller,Svenska Biografteatern AB,6,189,4,1
+tt0008679,Tillie Wakes Up,1917,1/29/1917,Comedy,48,USA,English,Harry Davenport,Peerless Productions,4.8,481,4,1
+tt0008687,Tom Sawyer,1917,12/10/1917,"Adventure, Comedy, Drama",59,USA,English,William Desmond Taylor,Oliver Morosco Photoplay Company,6.1,140,8,2
+tt0008710,Tösen från Stormyrtorpet,1917,9/10/1917,Drama,87,Sweden,English,Victor Sjöström,Svenska Biografteatern AB,6.7,148,1,2
+tt0008775,Wild and Woolly,1917,6/24/1917,"Comedy, Western, Romance",72,USA,English,John Emerson,Douglas Fairbanks Pictures,6.4,557,8,3
+tt0008827,Amarilly of Clothes-Line Alley,1918,3/11/1918,"Comedy, Romance",67,USA,English,Marshall Neilan,Mary Pickford Company,5.8,740,9,5
+tt0008843,Az aranyember,1919,1/20/1919,Drama,83,Hungary,English,Alexander Korda,Corvin Film,5.9,123,3,1
+tt0008854,Gli occhi della mummia,1918,10/3/1918,"Drama, Horror",63,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),5.5,554,18,15
+tt0008879,I proscritti,1918,4/2/1905,Drama,136,Sweden,German,Victor Sjöström,Svenska Biografteatern AB,7.3,"1,518.00",12,17
+tt0008891,L'uccello blu,1918,3/31/1918,"Family, Fantasy",75,USA,English,Maurice Tourneur,Paramount Pictures,7,782,20,10
+tt0008930,Broadway Love,1918,1/21/1918,Romance,60,USA,English,Ida May Park,Universal Film Manufacturing Company,6,116,3,1
+tt0008950,Sangue gitano,1918,12/20/1918,Drama,70,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6,267,8,9
+tt0009014,La decima sinfonia,1918,11/1/1918,Drama,94,France,French,Abel Gance,Le Film d'Art,5.9,134,4,2
+tt0009062,L'allegra prigione,1917,11/30/1917,Comedy,48,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6.2,515,7,3
+tt0009086,The Forbidden City,1918,10/6/1918,"Drama, Romance",62,USA,English,Sidney Franklin,Norma Talmadge Film Corporation,5.4,281,9,1
+tt0009150,Cuori del mondo,1918,6/1/1918,"Drama, War",117,USA,English,D.W. Griffith,D.W. Griffith Productions,6.4,906,16,12
+tt0009153,Indemoniato,1918,7/6/1918,Western,50,USA,German,John Ford,Universal Film Manufacturing Company,6.1,112,2,5
+tt0009241,Johanna Enlists,1918,9/15/1918,"Comedy, Romance",72,USA,German,William Desmond Taylor,Pickford Film,5.1,594,3,2
+tt0009326,M'Liss,1918,5/5/1918,"Comedy, Drama",73,USA,English,Marshall Neilan,Pickford Film,6.5,119,9,5
+tt0009356,The Married Virgin,1918,12/1/1918,Drama,71,USA,English,Joseph Maxwell,Maxwell Productions (I),5.2,616,10,2
+tt0009369,Mickey,1918,8/1/1918,"Comedy, Drama",93,USA,English,"F. Richard Jones, James Young",Mabel Normand Feature Film Company,5.9,"1,061.00",18,3
+tt0009440,Old Wives for New,1918,5/19/1918,Drama,60,USA,English,Cecil B. DeMille,Artcraft Pictures Corporation,6.4,178,12,2
+tt0009475,A Pair of Silk Stockings,1918,7/20/1918,"Comedy, Romance",60,USA,English,Walter Edwards,Select Pictures Corporation,4.4,484,4,3
+tt0009559,A Romance of Happy Valley,1919,1/26/1919,"Drama, Romance",76,USA,English,D.W. Griffith,D.W. Griffith Productions,6.1,341,8,1
+tt0009608,Shifting Sands,1918,8/1/1918,Drama,60,USA,English,Albert Parker,Triangle Film Corporation,5.1,697,8,1
+tt0009611,Charlot soldato,1918,10/27/1918,"Comedy, War",45,USA,English,Charles Chaplin,Charles Chaplin Productions,7.3,"5,895.00",38,21
+tt0009652,Stella Maris,1918,1/21/1918,Drama,84,USA,German,Marshall Neilan,Pickford Film,6.7,"1,360.00",19,11
+tt0009682,Tarzan of the Apes,1918,1/27/1918,"Action, Adventure",73,USA,German,Scott Sidney,National Film Corporation of America,5.7,684,14,21
+tt0009701,Tih Minh,1918,2/7/1919,"Adventure, Mystery",418,France,French,Louis Feuillade,Société des Etablissements L. Gaumont,7,309,1,7
+tt0009737,The Unbeliever,1918,2/11/1918,"Drama, War",80,USA,English,Alan Crosland,Perfection Pictures,5.9,109,5,1
+tt0009796,The Whispering Chorus,1918,3/28/1918,Drama,86,USA,English,Cecil B. DeMille,Famous Players-Lasky Corporation,6.8,262,14,5
+tt0009878,Anders als die Andern,1919,5/28/1919,"Crime, Drama, History",50,Germany,English,Richard Oswald,Richard-Oswald-Produktion,7,"1,122.00",16,16
+tt0009892,Ravished Armenia,1919,1/19/1919,"Drama, History, Romance",80,USA,German,Oscar Apfel,First National Pictures,5.9,963,2,2
+tt0009893,La principessa delle ostriche,1919,5/3/1920,Comedy,60,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),7.2,,19,23
+tt0009894,El automóvil gris,1919,12/11/1919,"Action, Crime",223,Mexico,Spanish,Enrique Rosas,Azteca Films,7.1,168,1,2
+tt0009900,Il ritorno al paradiso terrestre,1919,4/5/1905,"Adventure, Romance, Western",73,Canada,German,David Hartford,Canadian Photoplays Ltd.,6.3,857,11,6
+tt0009915,Behind the Door,1919,12/14/1919,"Drama, Thriller, War",70,USA,English,Irvin Willat,Thomas H. Ince Corporation,7.1,165,5,7
+tt0009937,Mariti ciechi,1919,2/6/1924,"Drama, Romance",99,USA,English,Erich von Stroheim,Universal Film Manufacturing Company,7,"1,325.00",12,17
+tt0009968,Giglio infranto,1919,2/23/1923,"Drama, Romance",90,USA,German,D.W. Griffith,D.W. Griffith Productions,7.3,"9,241.00",89,78
+tt0009976,The Busher,1919,5/18/1919,"Drama, Sport",63,USA,English,Jerome Storm,Thomas H. Ince Corporation,5.7,631,13,4
+tt0010040,Daddy-Long-Legs,1919,5/11/1919,"Comedy, Drama",85,USA,English,Marshall Neilan,Mary Pickford Company,6.5,"1,306.00",20,11
+tt0010060,The Delicious Little Devil,1919,5/1/1919,"Comedy, Drama",63,USA,English,Robert Z. Leonard,Universal Film Manufacturing Company,5.9,814,12,5
+tt0010071,Don't Change Your Husband,1919,1/26/1919,Comedy,71,USA,German,Cecil B. DeMille,Artcraft Pictures Corporation,6.6,"1,122.00",21,6
+tt0010103,Eyes of Youth,1919,11/30/1919,Drama,78,USA,English,Albert Parker,Harry Garson Productions,5.3,646,6,3
+tt0010137,"For Better, for Worse",1919,4/27/1919,Drama,70,USA,English,Cecil B. DeMille,Famous Players-Lasky Corporation,5.4,697,3,3
+tt0010162,Getting Mary Married,1919,4/19/1919,Comedy,65,USA,English,Allan Dwan,Marion Davies Film Corporation,6.5,,4,3
+tt0010193,The Greatest Question,1919,12/28/1919,Drama,80,USA,English,D.W. Griffith,First National Pictures,5.8,671,11,1
+tt0010195,The Grim Game,1919,10/12/1919,"Adventure, Drama",71,USA,English,Irvin Willat,Paramount Pictures,6.8,254,11,6
+tt0010208,Harakiri,1919,12/6/1920,Drama,80,Germany,Dutch,Fritz Lang,Decla-Bioscop AG,5.6,553,3,7
+tt0010219,Hawthorne of the U.S.A.,1919,11/30/1919,"Adventure, Comedy, Romance",57,USA,English,James Cruze,Paramount Pictures,3.9,368,2,1
+tt0010227,Heart o' the Hills,1919,11/30/1919,"Drama, Romance",87,USA,English,"Joseph De Grasse, Sidney Franklin",Mary Pickford Company,5.6,510,10,5
+tt0010247,Il tesoro di Arne,1919,9/22/1919,"Drama, History",122,Sweden,Swedish,Mauritz Stiller,Svenska Biografteatern AB,7.3,"1,176.00",9,15
+tt0010267,The Hoodlum,1919,8/31/1919,Comedy,78,USA,English,Sidney Franklin,Mary Pickford Company,6.7,929,10,4
+tt0010281,Non vorrei essere un uomo,1918,11/18/1918,"Comedy, Romance",45,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6.9,"1,230.00",16,15
+tt0010298,Ingmarssönerna,1919,1/1/1919,Drama,207,Sweden,German,Victor Sjöström,Paramount Pictures,6.9,100,2,2
+tt0010307,Per la patria,1919,4/25/1919,"Drama, Horror, War",166,France,French,Abel Gance,Pathé Frères,7.7,"1,417.00",15,25
+tt0010323,Il gabinetto del dottor Caligari,1920,2/27/1920,"Fantasy, Horror, Mystery",76,Germany,German,Robert Wiene,Decla-Bioscop AG,8.1,"55,601.00",237,160
+tt0010418,Male and Female,1919,11/23/1919,"Adventure, Drama",116,USA,English,Cecil B. DeMille,Paramount Pictures,7,"1,712.00",16,8
+tt0010456,Meyer il berlinese,1919,1/17/1919,Comedy,58,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6,172,3,3
+tt0010466,The Miracle Man,1919,8/26/1919,Drama,80,USA,English,George Loane Tucker,Mayflower Photoplay Company,6.6,145,5,6
+tt0010484,The Mother and the Law,1919,8/18/1919,Drama,95,USA,German,D.W. Griffith,D.W. Griffith Productions,6.9,166,3,1
+tt0010559,Die Pest in Florenz,1919,10/23/1919,"Drama, History, Horror",92,Germany,German,Otto Rippert,Decla-Bioscop AG,6.3,137,2,3
+tt0010598,Præsidenten,1919,2/9/1920,Drama,75,Denmark,German,Carl Theodor Dreyer,Nordisk Film,6.6,776,7,10
+tt0010600,La bambola di carne,1919,4/6/1920,"Comedy, Fantasy",66,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),7.4,"1,669.00",12,21
+tt0010635,The Roaring Road,1919,4/27/1919,"Comedy, Drama, Sport",58,USA,English,James Cruze,Paramount Pictures,5.2,594,6,2
+tt0010662,Scarlet Days,1919,11/9/1919,"Adventure, Romance, Western",77,USA,English,D.W. Griffith,D.W. Griffith Productions,4.9,420,5,3
+tt0010680,The Sentimental Bloke,1919,6/27/1905,"Drama, Romance",106,Australia,English,Raymond Longford,Southern Cross Feature Film Company,6.3,237,11,10
+tt0010726,"Il lago d'oro, ovvero I ragni",1919,11/13/1922,"Adventure, Western",81,Germany,German,Fritz Lang,Decla-Bioscop AG,6.6,"1,051.00",12,22
+tt0010755,Il canto del fiore rosso,1919,4/14/1919,"Drama, Romance",145,Sweden,German,Mauritz Stiller,Svenska Biografteatern AB,6.9,157,2,1
+tt0010806,Amore sulle labbra,1919,6/1/1919,"Comedy, Drama, Romance",87,USA,English,D.W. Griffith,D.W. Griffith Productions,7,"1,599.00",49,9
+tt0010821,Un affare misterioso,1919,11/5/1919,"Fantasy, Horror, Mystery",112,Germany,German,Richard Oswald,Richard-Oswald-Produktion,6.5,447,7,10
+tt0010844,Victory,1919,12/7/1919,"Drama, Romance",62,USA,English,Maurice Tourneur,Maurice Tourneur Productions,6.6,331,13,5
+tt0010853,Wagon Tracks,1919,7/29/1919,Western,64,USA,German,Lambert Hillyer,William S. Hart Productions,6.7,152,7,5
+tt0010879,Quando le nuvole volano via,1919,12/28/1919,"Action, Comedy, Romance",85,USA,English,Victor Fleming,Douglas Fairbanks Pictures,6.9,775,9,6
+tt0010890,The Wicked Darling,1919,2/24/1919,"Drama, Crime",59,USA,English,Tod Browning,Universal Film Manufacturing Company,6.4,337,9,3
+tt0010925,Yankee Doodle in Berlin,1919,3/2/1919,Comedy,58,USA,English,F. Richard Jones,Mack Sennett Comedies,5.5,722,6,2
+tt0010953,Algol - Tragödie der Macht,1920,11/7/1921,"Fantasy, Sci-Fi",99,Germany,German,Hans Werckmeister,Deutsche Lichtbild-Gesellschaft e.V. (DLG),6.3,138,5,7
+tt0010962,Anna Bolena,1920,4/4/1921,"Biography, Drama, Romance",100,Germany,German,Ernst Lubitsch,Messters Projektion GmbH,6.6,576,14,13
+tt0010964,April Folly,1920,3/21/1920,"Drama, Crime",50,USA,English,Robert Z. Leonard,Marion Davies Film Corporation,6.4,129,3,13
+tt0010969,L'atlantide,1921,5/28/1921,"Adventure, Fantasy, Mystery",136,"France, Belgium",French,Jacques Feyder,International et Commercial de la Cinématographie (Thalman),6.7,315,5,10
+tt0011000,Pagine dal libro di Satana,1920,1/24/1921,Drama,167,Denmark,German,Carl Theodor Dreyer,Nordisk Film,6.7,"1,083.00",16,15
+tt0011130,Dr. Jekyll e Mr. Hyde,1920,9/28/1920,"Drama, Horror, Sci-Fi",69,USA,English,John S. Robertson,Paramount Pictures,7,"4,753.00",73,67
+tt0011157,Erotikon,1920,11/8/1920,"Comedy, Romance",106,Sweden,Swedish,Mauritz Stiller,Svensk Filmindustri (SF),6.6,717,12,10
+tt0011173,Fante-Anne,1920,9/11/1920,"Crime, Drama, Romance",93,Norway,German,Rasmus Breistein,Paramount Pictures,6.2,123,1,2
+tt0011193,The Flapper,1920,5/10/1920,Comedy,88,USA,English,Alan Crosland,Selznick Pictures Corporation,6.6,291,12,4
+tt0011217,Il cammino nella notte,1921,8/8/1921,Drama,81,"Germany, Denmark",German,F.W. Murnau,Goron Film,6.4,308,3,6
+tt0011221,Genuine,1920,12/12/1921,Horror,88,Germany,German,Robert Wiene,Decla-Bioscop AG,6,848,14,7
+tt0011237,Il Golem - Come venne al mondo,1920,5/26/1924,"Fantasy, Horror",76,Germany,German,"Carl Boese, Paul Wegener",Projektions-AG Union (PAGU),7.2,"6,577.00",51,49
+tt0011267,Headin' Home,1920,9/19/1920,"Biography, Comedy, Drama",71,USA,English,Lawrence C. Windom,Kessel & Baumann,5.1,260,11,7
+tt0011294,L'Hirondelle et la Mésange,1924,6/5/1924,Drama,80,France,French,André Antoine,Pathé Frères,7.1,165,3,6
+tt0011302,La giustizia del mare,1920,12/3/1920,Drama,86,France,French,Marcel L'Herbier,Gaumont Série Pax,6.9,187,3,3
+tt0011317,Humoresque,1920,5/30/1920,Drama,60,USA,German,Frank Borzage,Cosmopolitan Productions,6.2,135,3,3
+tt0011344,L'uomo dal coltello a serramanico,1920,8/1/1920,Drama,60,USA,English,King Vidor,King W. Vidor Productions,6.2,105,4,13
+tt0011358,Just Pals,1920,11/18/1920,"Comedy, Drama, Western",50,USA,English,John Ford,Fox Film Corporation,6.6,332,4,3
+tt0011369,Der Klosterjäger,1920,4/3/1905,Drama,70,Germany,German,Franz Osten,Paramount Pictures,6,113,3,13
+tt0011370,Klostret i Sendomir,1920,1/1/1920,Drama,54,Sweden,German,Victor Sjöström,Svenska Biografteatern AB,6.8,,3,3
+tt0011371,Due sorelle,1920,7/5/1920,"Comedy, Romance",64,Germany,German,Ernst Lubitsch,Messters Projektion GmbH,6.7,264,3,1
+tt0011387,The Last of the Mohicans,1920,11/21/1920,"Action, Adventure, Drama",73,USA,English,"Clarence Brown, Maurice Tourneur",Maurice Tourneur Productions,6.7,"1,102.00",28,7
+tt0011414,The Love Expert,1920,4/18/1920,"Comedy, Romance",60,USA,German,David Kirkland,Constance Talmadge Film Company,4.9,142,5,1
+tt0011415,The Love Flower,1920,8/22/1920,Drama,70,USA,English,D.W. Griffith,D.W. Griffith Productions,5.9,105,11,2
+tt0011439,Il segno di Zorro,1920,6/23/1922,"Adventure, Romance, Western",79,USA,German,Fred Niblo,Douglas Fairbanks Pictures,7.1,"2,145.00",37,23
+tt0011440,Markens grøde,1921,12/2/1921,Drama,107,Norway,German,Gunnar Sommerfeldt,Christiana Film,6.6,195,3,3
+tt0011474,Un pulcino nella stoppa,1920,6/13/1920,"Adventure, Comedy, Romance",86,USA,English,Victor Fleming,Douglas Fairbanks Pictures,6.5,129,5,6
+tt0011513,Nomads of the North,1920,9/26/1920,Drama,109,USA,German,David Hartford,James Oliver Curwood Productions Inc.,5.7,189,11,3
+tt0011588,Pollyanna,1920,1/18/1920,"Family, Comedy, Drama",58,USA,English,Paul Powell,Mary Pickford Company,6.4,355,15,2
+tt0011607,La vedova del pastore,1920,10/4/1920,"Comedy, Drama, Horror",94,Sweden,Danish,Carl Theodor Dreyer,Svensk Filmindustri (SF),7.1,"1,032.00",13,14
+tt0011623,The Restless Sex,1920,9/12/1920,Drama,70,USA,English,"Leon D'Usseau, Robert Z. Leonard",Cosmopolitan Productions,6.1,149,2,13
+tt0011641,Romeo e giulietta sulla neve,1920,3/12/1920,Comedy,45,Germany,German,Ernst Lubitsch,Ebner & Co.,6.5,153,5,1
+tt0011647,The Round-Up,1920,10/10/1920,"Comedy, Western",70,USA,English,George Melford,Paramount Pictures,5.7,123,4,1
+tt0011652,The Saphead,1920,9/20/1920,Comedy,77,USA,German,"Herbert Blaché, Winchell Smith",Metro Pictures Corporation,6.1,"1,402.00",22,17
+tt0011679,Sex,1920,9/14/1920,Drama,87,USA,German,Fred Niblo,J. Parker Read Jr. Productions,6,265,8,13
+tt0011716,Something to Think About,1920,10/17/1920,Drama,78,USA,German,Cecil B. DeMille,Famous Players-Lasky Corporation,5.2,575,3,13
+tt0011723,"Die Spinnen, 2. Teil - Das Brillantenschiff",1920,2/2/1920,Adventure,104,Germany,German,Fritz Lang,Decla-Film-Gesellschaft Holz & Co.,6.4,763,11,18
+tt0011741,Suds,1920,1/27/1920,"Comedy, Drama, Romance",75,USA,English,John Francis Dillon,Mary Pickford Company,6.3,210,9,1
+tt0011742,Sumurum,1920,4/5/1905,"Adventure, Drama, Romance",84,Germany,German,Ernst Lubitsch,Projektions-AG Union (PAGU),6.1,625,12,14
+tt0011753,Terror Island,1920,4/1/1920,Mystery,55,USA,English,James Cruze,Paramount Pictures,5.5,168,5,2
+tt0011779,The Toll Gate,1920,4/15/1920,"Adventure, Drama, Western",73,USA,English,Lambert Hillyer,William S. Hart Productions,6.5,191,12,5
+tt0011833,Von morgens bis mitternachts,1920,4/3/1905,"Drama, Thriller",65,Germany,German,Karl Heinz Martin,Ilag-Film,6.9,425,6,10
+tt0011837,Das wandernde Bild,1920,9/26/1921,Romance,67,Germany,German,Fritz Lang,May-Film,6.1,356,7,7
+tt0011841,Agonia sui ghiacci,1920,5/15/1926,"Drama, Romance",145,USA,German,D.W. Griffith,D.W. Griffith Productions,7.4,"4,961.00",3,30
+tt0011865,Why Change Your Wife?,1920,4/11/1921,"Comedy, Drama",90,USA,English,Cecil B. DeMille,Paramount Pictures,6.7,"1,321.00",24,8
+tt0011870,Within Our Gates,1920,1/12/1920,"Drama, Romance",79,USA,English,Oscar Micheaux,Micheaux Book & Film Company,6.3,"2,465.00",21,13
+tt0011904,The Ace of Hearts,1921,4/14/1923,"Crime, Drama, Mystery",75,USA,English,Wallace Worsley,Goldwyn Pictures Corporation,6.8,"1,037.00",31,7
+tt0011908,Adventures of Tarzan,1921,12/1/1921,"Action, Adventure",73,USA,English,"Robert F. Hill, Scott Sidney",Great Western Producing Company,6,101,1,3
+tt0011909,"Fragilità, sei femmina!",1921,9/25/1921,"Comedy, Drama",117,USA,English,Cecil B. DeMille,Famous Players-Lasky Corporation,6.6,"1,208.00",19,3
+tt0011948,Be My Wife,1921,11/6/1921,Comedy,55,USA,English,Max Linder,Max Linder Productions,6.9,364,4,8
+tt0011960,Lo scoiattolo,1921,8/5/1921,"Comedy, Drama, Romance",79,Germany,English,Ernst Lubitsch,Projektions-AG Union (PAGU),7,"1,025.00",12,15
+tt0011979,The Blot,1921,9/4/1921,"Drama, Romance",91,USA,English,Lois Weber,Lois Weber Productions,6.8,497,21,7
+tt0012016,Buried Treasure,1921,4/10/1921,"Adventure, Fantasy, Romance",70,USA,English,George D. Baker,Cosmopolitan Productions,6.4,170,2,1
+tt0012027,Camille,1921,9/26/1921,"Drama, Romance",72,USA,English,Ray C. Smallwood,Nazimova Productions,6.6,875,34,6
+tt0012068,La commedia umana,1921,7/8/1921,"Drama, Romance",89,USA,English,Rex Ingram,Metro Pictures Corporation,6.8,415,16,3
+tt0012122,Dream Street,1921,4/12/1921,"Comedy, Drama, Romance",102,USA,English,D.W. Griffith,D.W. Griffith Productions,5.5,133,7,2
+tt0012125,Ducks and Drakes,1921,2/1/1921,"Comedy, Romance",58,USA,English,Maurice Campbell,Realart Pictures Corporation,6.4,116,3,13
+tt0012134,Eldorado,1921,10/28/1921,Drama,100,France,French,Marcel L'Herbier,Gaumont Série Pax,7,362,3,4
+tt0012136,Enchantment,1921,10/30/1921,Comedy,90,USA,English,Robert G. Vignola,Cosmopolitan Productions,6.4,268,6,1
+tt0012187,Forbidden Fruit,1921,1/23/1921,Drama,87,USA,French,Cecil B. DeMille,Paramount Pictures,6.5,123,4,2
+tt0012190,I quattro cavalieri dell'Apocalisse,1921,4/16/1923,"Drama, Romance, War",150,USA,French,Rex Ingram,Metro Pictures Corporation,7.2,"3,058.00",45,16
+tt0012249,Amleto,1921,1/27/1921,Drama,131,Germany,German,"Svend Gade, Heinz Schall",Art-Film GmbH,7,382,5,8
+tt0012281,Hintertreppe,1921,2/4/1922,Drama,50,Germany,German,"Leopold Jessner, Paul Leni",Gloria-Film GmbH,6.8,209,9,13
+tt0012313,Das indische Grabmal zweiter Teil - Der Tiger von Eschnapur,1921,4/4/1905,"Adventure, Fantasy",100,Germany,German,Joe May,May-Film,6.7,286,4,9
+tt0012314,Das indische Grabmal erster Teil - Die Sendung des Yoghi,1921,4/5/1905,"Adventure, Fantasy",120,Germany,German,Joe May,May-Film,6.6,239,5,9
+tt0012334,Johan,1921,2/28/1921,Drama,84,Sweden,French,Mauritz Stiller,Svensk Filmindustri (SF),6.8,215,,1
+tt0012349,Il monello,1921,11/26/1923,"Comedy, Drama, Family",68,USA,English,Charles Chaplin,Charles Chaplin Productions,8.3,"109,038.00",173,105
+tt0012364,Il carrettiere della morte,1921,4/5/1905,"Drama, Fantasy, Horror",107,Sweden,Swedish,Victor Sjöström,Svensk Filmindustri (SF),8.1,,68,82
+tt0012382,Leap Year,1924,1/11/1924,Comedy,56,USA,English,"James Cruze, Roscoe 'Fatty' Arbuckle",Paramount Pictures,6.1,268,9,1
+tt0012397,Little Lord Fauntleroy,1921,9/15/1921,Drama,112,USA,English,"Alfred E. Green, Jack Pickford",Mary Pickford Company,6.7,276,7,4
+tt0012408,The Love Light,1921,1/9/1921,Drama,89,USA,English,Frances Marion,Mary Pickford Company,6.5,338,12,2
+tt0012465,Miss Lulu Bett,1921,11/1/1921,"Comedy, Drama",71,USA,French,William C. de Mille,Paramount Pictures,7,311,11,2
+tt0012486,My Boy,1921,12/1/1921,"Comedy, Drama",55,USA,English,"Albert Austin, Victor Heerman",Jackie Coogan Productions,6.2,237,8,13
+tt0012494,Destino,1921,4/8/1905,"Drama, Fantasy, Thriller",97,Germany,German,Fritz Lang,Decla-Bioscop AG,7.7,"5,136.00",34,43
+tt0012513,The Nut,1921,3/6/1921,"Action, Comedy, Romance",74,USA,English,Theodore Reed,Douglas Fairbanks Pictures,6.5,209,9,2
+tt0012532,Le due orfanelle,1921,4/5/1905,"Drama, History, Romance",150,USA,English,D.W. Griffith,D.W. Griffith Productions,7.4,"4,678.00",40,24
+tt0012538,Outside the Law,1920,1/6/1921,"Crime, Romance, Thriller",75,USA,English,Tod Browning,Universal Film Manufacturing Company,6.5,469,17,9
+tt0012631,Rojô no reikion,1921,4/8/1921,Drama,91,Japan,Japanese,Minoru Murata,Shôchiku Kinema Kenkyujo,6.7,130,2,6
+tt0012642,A Sailor-Made Man,1921,12/25/1921,Comedy,47,USA,English,Fred C. Newmeyer,Hal Roach Studios,6.9,941,13,5
+tt0012645,Sappho,1921,1/2/1922,Drama,82,Germany,French,Dimitri Buchowetzki,Projektions-AG Union (PAGU),6.8,123,4,2
+tt0012650,Scherben,1921,5/27/1921,Drama,50,Germany,German,Lupu Pick,Rex-Film GmbH,6.4,217,5,3
+tt0012651,Il castello di Vogelod,1921,4/7/1921,"Crime, Drama, Horror",75,Germany,German,F.W. Murnau,Uco-Film GmbH,6.2,"1,391.00",20,34
+tt0012675,Lo sceicco,1921,11/20/1921,"Adventure, Drama, Romance",86,USA,English,George Melford,Paramount Pictures,6.4,"3,055.00",31,23
+tt0012699,The Sky Pilot,1921,4/17/1921,Drama,77,USA,French,King Vidor,Cathrine Curtis Corporation,5.8,109,6,2
+tt0012745,La terre,1921,7/15/1926,Drama,97,France,French,André Antoine,Pathé Frères,6.9,135,7,4
+tt0012752,The Three Musketeers,1921,8/28/1921,"Action, Adventure, Romance",119,USA,English,Fred Niblo,Douglas Fairbanks Pictures,6.9,846,15,13
+tt0012755,Through the Back Door,1921,5/5/1921,"Comedy, Drama",89,USA,English,"Alfred E. Green, Jack Pickford",Mary Pickford Company,6.8,163,9,13
+tt0012763,La pazienza di Davide,1921,12/31/1921,Drama,99,USA,French,Henry King,Inspiration Pictures,6.8,"1,722.00",15,7
+tt0012769,Too Wise Wives,1921,5/22/1921,Drama,80,USA,English,Lois Weber,Lois Weber Productions,5.9,133,8,13
+tt0012806,Vier um die Frau,1921,2/3/1921,Drama,52,Germany,German,Fritz Lang,Decla-Bioscop AG,6.2,323,4,5
+tt0012928,Beauty's Worth,1922,5/14/1922,"Drama, Romance",112,USA,English,Robert G. Vignola,Cosmopolitan Productions,6.1,766,5,2
+tt0012938,L'età di amare,1922,5/7/1922,"Drama, Romance",80,USA,French,Sam Wood,Famous Players-Lasky Corporation,6.7,"2,216.00",52,16
+tt0012952,Sangue e arena,1922,8/5/1922,"Drama, Romance, Sport",80,USA,French,"Fred Niblo, Dorothy Arzner",Paramount Pictures,6.4,"1,234.00",20,13
+tt0012973,La terra che brucia,1922,4/24/1922,Drama,98,Germany,French,F.W. Murnau,Deulig Film,6.9,566,13,4
+tt0012975,The Bride's Play,1922,1/22/1922,Romance,70,USA,English,George Terwilliger,Cosmopolitan Productions,6.2,255,6,13
+tt0013033,Crainquebille,1922,10/7/1923,Drama,90,"France, Belgium",French,Jacques Feyder,Films A. Legrand,7.1,340,10,4
+tt0013059,Der var engang,1922,10/3/1922,"Drama, Family, Fantasy",75,Denmark,French,Carl Theodor Dreyer,Sophus Madsen Film,6.3,343,4,1
+tt0013075,Dr. Jack,1922,11/26/1922,"Comedy, Romance",60,USA,English,"Fred C. Newmeyer, Sam Taylor",Hal Roach Studios,7.1,"1,194.00",18,8
+tt0013085,Down to the Sea in Ships,1922,3/4/1923,"Adventure, Drama, Romance",83,USA,French,Elmer Clifton,Whaling Film Corp.,6.1,336,16,7
+tt0013122,La femme de nulle part,1922,7/26/1922,Drama,61,France,French,Louis Delluc,Paramount Pictures,6.5,118,1,1
+tt0013134,Flesh and Blood,1922,8/27/1922,Drama,74,USA,French,Irving Cummings,Irving Cummings Productions,6.2,151,10,13
+tt0013140,Femmine folli,1922,1/11/1922,"Drama, Thriller",117,USA,Latin,Erich von Stroheim,Universal Film Manufacturing Company,7,"3,072.00",26,31
+tt0013169,Gli stigmatizzati,1922,2/7/1922,Drama,105,Germany,German,Carl Theodor Dreyer,Primus-Film GmbH,6.5,360,4,3
+tt0013201,Il talismano della nonna,1922,9/3/1922,"Comedy, Family",60,USA,English,Fred C. Newmeyer,Hal Roach Studios,7,"1,618.00",24,16
+tt0013223,The Headless Horseman,1922,11/5/1922,"Comedy, Drama, Horror",68,USA,English,Edward D. Venturini,Sleepy Hollow Corporation,4.9,225,10,4
+tt0013332,Lorna Doone,1922,9/17/1923,"Drama, Romance",70,USA,French,Maurice Tourneur,Thomas H. Ince Corporation,6.7,268,15,8
+tt0013367,The Man from Beyond,1922,4/2/1922,Mystery,74,USA,English,Burton L. King,Houdini Picture Corporation,5.4,226,12,9
+tt0013372,Manslaughter,1922,9/24/1922,Drama,100,USA,Latin,Cecil B. DeMille,Paramount Pictures,6.2,415,11,4
+tt0013386,Donne viennesi,1923,9/3/1923,Drama,110,USA,English,"Rupert Julian, Erich von Stroheim",Universal Pictures,6.6,293,6,2
+tt0013402,Monte Cristo,1922,9/3/1922,"Drama, Romance",100,USA,Latin,Emmett J. Flynn,Fox Film Corporation,6.7,333,6,8
+tt0013404,Moran of the Lady Letty,1922,2/5/1922,Adventure,68,USA,Latin,George Melford,Famous Players-Lasky Corporation,6.4,310,14,5
+tt0013428,Nathan il saggio,1922,9/21/1923,"Drama, History",86,Germany,German,Manfred Noa,Bavaria Film,6.9,115,3,3
+tt0013442,Nosferatu - Il vampiro,1922,3/4/1922,"Fantasy, Horror",94,Germany,German,F.W. Murnau,Jofa-Atelier Berlin-Johannisthal,7.9,"86,620.00",419,202
+tt0013450,Oliver Twist,1922,10/30/1922,Drama,98,USA,English,Frank Lloyd,Jackie Coogan Productions,6.7,706,19,2
+tt0013469,Othello,1922,9/17/1922,"Drama, Romance",79,Germany,German,Dimitri Buchowetzki,Wörner-Filmgesellschaft,6.4,233,10,5
+tt0013496,Fantasma,1922,11/13/1922,"Drama, Romance",125,Germany,German,F.W. Murnau,Uco-Film GmbH,6.9,"1,528.00",19,24
+tt0013515,The Prisoner of Zenda,1922,9/11/1922,"Adventure, Romance",125,USA,Latin,Rex Ingram,Metro Pictures Corporation,6.7,452,16,5
+tt0013556,Robin Hood,1922,10/18/1922,"Adventure, Family, Romance",143,USA,English,Allan Dwan,Douglas Fairbanks Pictures,7.2,"1,971.00",25,19
+tt0013571,Salomé,1922,2/15/1923,"Biography, Drama, History",72,USA,Latin,"Charles Bryant, Alla Nazimova",Nazimova Productions,6.6,807,26,7
+tt0013574,Saturday Night,1922,1/29/1922,"Comedy, Romance",90,USA,Latin,Cecil B. DeMille,Famous Players-Lasky Corporation,6.6,101,4,3
+tt0013579,Ombre ammonitrici,1923,11/29/2016,"Drama, Fantasy, Horror",90,Germany,German,Arthur Robison,Pan-Film,6.8,842,15,16
+tt0013590,The Seventh Day,1922,2/6/1922,"Drama, Romance",60,USA,Latin,Henry King,Inspiration Pictures,5.9,101,3,13
+tt0013592,Shadows,1922,11/10/1922,Drama,70,USA,English,Tom Forman,B.P. Schulberg Productions,6.3,365,16,7
+tt0013597,Sherlock Holmes,1922,3/7/1922,"Drama, Mystery",85,USA,English,Albert Parker,Goldwyn Pictures Corporation,5.8,551,18,15
+tt0013607,Sky High,1922,1/22/1922,"Action, Drama, Romance",58,USA,English,Lynn Reynolds,Fox Film Corporation,5.8,158,6,1
+tt0013619,Sodom und Gomorrha,1922,10/13/1922,Drama,150,"Germany, Austria",Latin,Michael Curtiz,Sascha-Film,6,169,6,2
+tt0013662,Tess of the Storm Country,1922,11/12/1922,"Drama, Romance",137,USA,English,John S. Robertson,Mary Pickford Company,6.9,418,13,4
+tt0013674,The Three Must-Get-Theres,1922,8/27/1922,"Action, Adventure, Comedy",58,USA,English,Max Linder,Max Linder Productions,7,500,2,12
+tt0013688,The Toll of the Sea,1922,1/22/1923,"Drama, Family, Fantasy",54,USA,Latin,Chester M. Franklin,Technicolor,6.6,,25,12
+tt0013704,The Trap,1922,5/9/1922,Drama,60,USA,English,Robert Thornby,Universal Film Manufacturing Company,6,118,10,3
+tt0013705,Trapped by the Mormons,1922,3/1/1922,"Drama, Crime",97,UK,English,Harry B. Parkinson,Master Films,5.8,136,6,3
+tt0013741,Das Weib des Pharao,1922,8/11/1922,"Drama, History",100,Germany,German,Ernst Lubitsch,Ernst Lubitsch-Film,6.6,443,9,14
+tt0013750,When Knighthood Was in Flower,1922,9/15/1922,"Romance, Drama",120,USA,English,Robert G. Vignola,Cosmopolitan Productions,6.3,968,6,4
+tt0013802,The Young Rajah,1922,11/12/1922,"Romance, Drama",54,USA,Latin,Phil Rosen,Paramount Pictures,6.3,366,12,4
+tt0013830,Das alte Gesetz,1923,10/29/1923,Drama,128,Germany,German,Ewald André Dupont,Comedia-Film GmbH,6.8,119,3,6
+tt0013909,Ladro d'amore,1923,10/21/1923,Drama,70,USA,English,John Ford,Fox Film Corporation,5.2,319,3,13
+tt0013933,Cuore fedele,1923,11/23/1923,"Drama, Romance",87,France,French,Jean Epstein,Pathé Consortium Cinéma,7.5,"1,103.00",6,17
+tt0013951,I pionieri,1923,9/8/1924,"Adventure, Romance, Western",98,USA,English,James Cruze,Paramount Pictures,6.6,505,6,14
+tt0014029,The Extra Girl,1923,10/28/1923,"Comedy, Romance",68,USA,English,F. Richard Jones,Mack Sennett Comedies,6.6,"1,068.00",15,4
+tt0014108,Il vecchio castello,1923,1/1/1923,Drama,101,Sweden,Latin,Mauritz Stiller,Svenska Biografteatern AB,6.9,144,5,5
+tt0014109,La leggenda di Gosta Berlings,1924,3/10/1924,"Drama, Romance",183,Sweden,Latin,Mauritz Stiller,Svensk Filmindustri (SF),7.1,"1,085.00",17,16
+tt0014112,Haldane of the Secret Service,1923,9/30/1923,"Adventure, Crime, Drama",84,USA,English,Harry Houdini,Houdini Picture Corporation,5.5,114,6,2
+tt0014142,Il gobbo di Notre Dame,1923,9/6/1923,"Drama, Horror, Romance",133,USA,Latin,Wallace Worsley,Universal Pictures,7.2,"4,711.00",63,53
+tt0014205,Little Old New York,1923,11/4/1923,"Comedy, Romance",110,USA,English,Sidney Olcott,Cosmopolitan Productions,6.2,893,7,6
+tt0014341,Accidenti che ospitalità!,1923,11/27/1925,"Comedy, Romance, Thriller",65,USA,English,"John G. Blystone, Buster Keaton",Joseph M. Schenck Productions,7.8,"9,902.00",54,47
+tt0014358,Il pellegrino,1923,5/6/1927,Comedy,47,USA,Spanish,Charles Chaplin,Charles Chaplin Productions,7.4,"4,261.00",26,15
+tt0014397,Raskolnikow,1923,10/31/1924,Drama,135,Germany,Latin,Robert Wiene,Leonardo-Film,6.8,253,5,3
+tt0014416,Rosita,1923,9/3/1923,"Romance, Comedy",99,USA,English,"Ernst Lubitsch, Raoul Walsh",Mary Pickford Company,6.5,269,4,3
+tt0014417,La rosa sulle rotaie,1923,2/17/1923,Drama,418,France,French,Abel Gance,Films Abel Gance,7.5,"1,889.00",19,30
+tt0014429,Preferisco l'ascensore,1923,12/8/1924,"Action, Comedy, Thriller",74,USA,English,"Fred C. Newmeyer, Sam Taylor",Hal Roach Studios,8.1,"17,795.00",91,93
+tt0014440,Scaramouche,1923,2/1/1924,"Drama, Romance",124,USA,French,Rex Ingram,Metro Pictures Corporation,7,533,16,4
+tt0014446,Il tesoro,1923,4/7/1905,"Drama, Romance",80,Germany,German,Georg Wilhelm Pabst,Carl Froelich-Film GmbH (I),6.7,248,3,5
+tt0014463,The Shock,1923,6/10/1923,Drama,96,USA,English,Lambert Hillyer,Universal Pictures,6.5,375,18,6
+tt0014497,Souls for Sale,1923,4/22/1923,"Comedy, Drama, Romance",90,USA,English,Rupert Hughes,Goldwyn Pictures Corporation,7,826,26,5
+tt0014516,Die Straße,1923,11/29/1923,Drama,74,Germany,German,Karl Grune,Stern-Film,7,347,4,2
+tt0014524,La notte di San Silvestro,1924,1/3/1924,Drama,66,Germany,German,Lupu Pick,Rex-Film GmbH,6.2,134,2,1
+tt0014532,I dieci comandamenti,1923,11/23/1923,"Biography, Drama, Fantasy",136,USA,English,Cecil B. DeMille,Paramount Pictures,6.8,"1,915.00",34,11
+tt0014538,"Senti, amore mio",1923,8/16/1928,Comedy,63,USA,Spanish,"Edward F. Cline, Buster Keaton",Buster Keaton Productions,7.1,"3,949.00",24,36
+tt0014586,Das Wachsfigurenkabinett,1924,4/8/1905,"Fantasy, Horror",107,Germany,German,"Leo Birinsky, Paul Leni",Neptune-Film A.G.,6.6,"1,702.00",25,27
+tt0014604,The White Rose,1923,5/21/1923,"Drama, Romance",100,USA,English,D.W. Griffith,D.W. Griffith Productions,6.4,157,10,2
+tt0014605,La suora bianca,1923,9/5/1923,"Drama, Romance",143,USA,English,Henry King,Inspiration Pictures,6.8,390,17,3
+tt0014606,White Tiger,1923,12/17/1923,"Crime, Drama, Mystery",86,USA,English,Tod Browning,Universal Pictures,6.2,117,9,6
+tt0014611,Perché preoccuparsi?,1923,9/9/1923,"Adventure, Comedy, Family",63,USA,English,"Fred C. Newmeyer, Sam Taylor",Hal Roach Studios,7.4,"1,532.00",26,12
+tt0014624,La donna di Parigi,1923,6/6/1927,"Drama, Romance",82,USA,English,Charles Chaplin,Charles Chaplin Productions,7,"4,735.00",37,24
+tt0014636,Zaza,1923,10/21/1923,"Romance, Drama",84,USA,English,Allan Dwan,Paramount Pictures,6.2,786,4,10
+tt0014646,Aelita,1924,9/25/1924,"Adventure, Comedy, Drama",111,Soviet Union,Russian,Yakov Protazanov,Mezhrabpom-Rus,6.6,"2,303.00",36,31
+tt0014672,America,1924,2/21/1924,"Drama, History, War",141,USA,Spanish,D.W. Griffith,D.W. Griffith Productions,6.4,344,10,2
+tt0014702,Beau Brummel,1924,3/30/1924,"Drama, History, Romance",135,USA,Latin,Harry Beaumont,Warner Bros.,6.7,407,3,7
+tt0014721,Black Oxen,1923,1/1/1924,"Drama, Romance, Sci-Fi",80,USA,English,Frank Lloyd,Frank Lloyd Productions,5.9,131,8,3
+tt0014760,Captain January,1924,7/6/1924,Drama,64,USA,English,Edward F. Cline,Sol Lesser Productions,6.9,208,9,3
+tt0014770,The Chechahcos,1923,5/15/1924,"Adventure, Drama",87,USA,Latin,Lewis H. Moomaw,Alaska Moving Picture Corp.,6.5,212,4,1
+tt0014826,Dante's Inferno,1924,9/7/1924,"Drama, Horror, Romance",60,USA,English,Henry Otto,Fox Film Corporation,5.7,105,4,5
+tt0014854,Dorothy Vernon of Haddon Hall,1924,5/25/1924,"Drama, History, Romance",135,USA,English,"Marshall Neilan, Mary Pickford",Marshall Neilan Productions,6.9,125,4,2
+tt0014869,The Enchanted Cottage,1924,3/24/1924,Drama,70,USA,English,John S. Robertson,Inspiration Pictures,6.5,611,6,2
+tt0014874,The Family Secret,1924,9/28/1924,Drama,70,USA,English,William A. Seiter,Universal Pictures,6.3,119,6,1
+tt0014898,La fille de l'eau,1925,3/20/1925,"Drama, Romance",71,France,French,Jean Renoir,Les Films Jean Renoir,6.8,530,11,9
+tt0014900,Finanze del granduca,1924,4/13/1924,Comedy,80,Germany,German,F.W. Murnau,Universum Film (UFA),6.4,741,7,18
+tt0014925,La zarina,1924,11/30/1924,Comedy,69,USA,Latin,Ernst Lubitsch,Famous Players-Lasky Corporation,6.1,125,2,3
+tt0014945,Tutte e nessuna,1924,4/20/1924,"Comedy, Romance",87,USA,English,"Fred C. Newmeyer, Sam Taylor",The Harold Lloyd Corporation,7.7,"3,024.00",63,13
+tt0014972,Quello che prende gli schiaffi,1924,2/4/1926,"Drama, Romance, Thriller",95,USA,English,Victor Sjöström,Metro-Goldwyn-Mayer (MGM),7.8,"3,044.00",48,22
+tt0014982,Her Night of Romance,1924,10/1/1924,"Comedy, Romance",70,USA,Spanish,Sidney Franklin,Constance Talmadge Film Company,6.8,253,6,4
+tt0015002,Il re degli scapoli,1924,10/26/1924,Comedy,53,USA,English,"Fred C. Newmeyer, Sam Taylor",The Harold Lloyd Corporation,7.2,"1,210.00",19,9
+tt0015014,Futurismo,1924,12/12/1924,"Adventure, Drama, Mystery",135,France,French,Marcel L'Herbier,Cinégraphic,7.2,712,6,21
+tt0015016,Il cavallo d'acciaio,1924,1/1/1926,"History, Romance, Western",150,USA,English,John Ford,Fox Film Corporation,7.2,"1,898.00",30,39
+tt0015018,Isn't Life Wonderful,1924,12/5/1924,"Drama, Romance",115,USA,English,D.W. Griffith,D.W. Griffith Productions,6.9,,9,3
+tt0015022,Janice Meredith,1924,12/8/1924,"Drama, History, Romance",153,USA,English,E. Mason Hopper,Cosmopolitan Productions,5.7,665,5,1
+tt0015036,Kean,1924,2/15/1924,Drama,136,France,Spanish,Alexandre Volkoff,Films Albatros,6.7,145,4,6
+tt0015064,L'ultima risata,1924,4/9/1905,Drama,77,Germany,Latin,F.W. Murnau,Universum Film (UFA),8.1,"12,157.00",61,82
+tt0015116,Manhandled,1924,7/22/1924,"Drama, Comedy",75,USA,English,Allan Dwan,Paramount Pictures,6.5,973,5,5
+tt0015119,Matrimonio in quattro,1924,2/6/1927,Comedy,85,USA,Latin,Ernst Lubitsch,Warner Bros.,7.2,"1,061.00",11,10
+tt0015136,Michael,1924,11/17/1924,"Drama, Romance",93,Germany,Latin,Carl Theodor Dreyer,Universum Film (UFA),7.1,"1,540.00",22,27
+tt0015145,Monsieur Beaucaire,1924,8/11/1924,"Drama, Romance",106,USA,English,Sidney Olcott,Paramount Pictures,5.7,447,8,2
+tt0015163,Il navigatore,1924,8/7/1925,"Action, Comedy, Romance",59,USA,Latin,"Donald Crisp, Buster Keaton",Buster Keaton Productions,7.7,"8,853.00",55,39
+tt0015167,Le straordinarie avventure di mr. West nel paese dei bolscevichi,1924,4/27/1924,Comedy,94,Soviet Union,Latin,Lev Kuleshov,Goskino,6.6,865,14,11
+tt0015174,I Nibelunghi: La vendetta di Crimilde,1924,3/16/1925,"Adventure, Drama, Fantasy",129,Germany,Latin,Fritz Lang,Decla-Bioscop AG,7.9,"3,860.00",20,42
+tt0015175,I Nibelunghi: Sigfrido,1924,12/15/1924,"Adventure, Drama, Fantasy",143,Germany,German,Fritz Lang,Decla-Bioscop AG,8.1,"5,082.00",29,51
+tt0015200,Open All Night,1924,10/13/1924,Comedy,64,USA,English,Paul Bern,Paramount Pictures,4.7,104,5,1
+tt0015202,Orlacs Hände,1924,1/31/1925,"Crime, Horror, Mystery",92,"Austria, Germany",Latin,Robert Wiene,Berolina Film GmbH,7.1,"2,263.00",25,24
+tt0015213,Papirosnitsa ot Mosselproma,1924,12/2/1924,"Comedy, Romance",78,Soviet Union,Russian,Yuri Zhelyabuzhsky,Mezhrabpom-Rus,6.8,137,3,3
+tt0015214,Paris qui dort,1924,12/26/1924,Sci-Fi,59,France,French,René Clair,Films Diamant,7.2,"1,541.00",13,14
+tt0015224,Peter Pan,1924,12/29/1924,"Adventure, Fantasy, Family",105,USA,Latin,Herbert Brenon,Famous Players-Lasky Corporation,7.1,881,24,20
+tt0015268,The Red Lily,1924,9/8/1924,Drama,81,USA,Latin,Fred Niblo,Metro-Goldwyn Pictures Corporation,7.1,415,22,4
+tt0015289,Romola,1924,9/4/1925,"Drama, History",102,USA,Latin,Henry King,Inspiration Pictures,6.3,164,9,1
+tt0015310,The Sea Hawk,1924,6/14/1924,"Adventure, Drama, Romance",123,USA,English,Frank Lloyd,Frank Lloyd Productions,7,466,10,7
+tt0015312,Secrets,1924,3/24/1924,Drama,108,USA,English,Frank Borzage,Joseph M. Schenck Productions,5.5,220,3,13
+tt0015324,La palla n° 13,1924,5/11/1924,"Action, Comedy, Romance",45,USA,English,Buster Keaton,Buster Keaton Productions,8.2,"39,634.00",321,71
+tt0015361,Sciopero,1925,4/28/1925,Drama,82,Soviet Union,Spanish,Sergei M. Eisenstein,1-ya Goskino Fabrika,7.6,"6,877.00",39,33
+tt0015400,Il ladro di Bagdad,1924,12/27/1926,"Adventure, Family, Fantasy",155,USA,Latin,Raoul Walsh,Douglas Fairbanks Pictures,7.7,"5,460.00",59,65
+tt0015493,L'ombra bianca,1924,10/13/1924,Drama,82,UK,English,Graham Cutts,"Balcon, Freedman & Saville",6.3,200,9,5
+tt0015498,Arance selvatiche,1924,1/20/1924,"Drama, Romance",88,USA,English,King Vidor,Goldwyn Pictures Corporation,6.8,430,16,6
+tt0015500,Il vino della giovinezza,1924,9/15/1924,"Comedy, Drama",72,USA,English,King Vidor,Metro-Goldwyn Pictures Corporation,5.9,310,2,1
+tt0015518,Yolanda,1924,9/15/1924,Romance,74,USA,English,Robert G. Vignola,Cosmopolitan Productions,5.8,121,1,1
+tt0015532,Le avventure del principe Achmed,1926,4/11/1905,"Animation, Adventure, Family",80,Germany,German,"Lotte Reiniger, Carl Koch",Comenius-Film GmbH,7.8,"5,253.00",47,47
+tt0015624,La grande parata,1925,4/9/1905,"Drama, Romance, War",151,USA,Latin,"King Vidor, George W. Hill",Metro-Goldwyn-Mayer (MGM),7.9,"6,096.00",56,54
+tt0015634,Body and Soul,1925,11/9/1925,Drama,102,USA,English,Oscar Micheaux,Micheaux Film,6.2,767,14,12
+tt0015643,Braveheart,1925,12/27/1925,Western,71,USA,English,Alan Hale,Cinema Corporation of America,7,177,2,13
+tt0015648,La corazzata Potemkin,1925,4/7/1960,"Drama, History, Thriller",75,Soviet Union,Russian,Sergei M. Eisenstein,Goskino,8,"51,775.00",210,85
+tt0015684,The Circle,1925,9/22/1925,Drama,71,USA,English,Frank Borzage,Metro-Goldwyn-Mayer (MGM),6.3,491,12,4
+tt0015687,Clash of the Wolves,1925,11/28/1925,"Adventure, Romance, Western",74,USA,English,Noel M. Smith,Warner Bros.,6.6,243,6,4
+tt0015693,Cobra,1925,11/30/1925,"Drama, Romance",70,USA,English,Joseph Henabery,Ritz-Carlton Pictures,6.4,681,12,5
+tt0015758,Don Q Son of Zorro,1925,6/15/1925,"Adventure, Romance",111,USA,English,Donald Crisp,Elton Corporation,7,415,10,8
+tt0015768,L'angelo del focolare,1925,10/5/1925,Drama,111,Denmark,Danish,Carl Theodor Dreyer,Palladium Film,7.1,"1,703.00",21,28
+tt0015772,Aquila nera,1925,11/8/1925,"Action, Comedy, Drama",73,USA,English,Clarence Brown,Art Finance Corporation,6.6,"1,718.00",3,18
+tt0015794,Il fantasma del Moulin Rouge,1925,3/13/1925,"Drama, Fantasy",90,France,Latin,René Clair,Films René Fernand,6.3,133,5,1
+tt0015801,Il fu Mattia Pascal,1926,2/12/1926,Drama,170,France,French,Marcel L'Herbier,Cinégraphic,7.1,310,6,7
+tt0015841,Viva lo sport,1925,9/20/1925,"Comedy, Family, Romance",77,USA,English,"Fred C. Newmeyer, Sam Taylor",The Harold Lloyd Corporation,7.5,"4,882.00",36,39
+tt0015842,La via senza gioia,1925,3/22/1926,Drama,125,Germany,German,Georg Wilhelm Pabst,Sofar-Film,7.2,"1,348.00",19,18
+tt0015847,Furusato no uta,1926,9/17/1926,Drama,45,Japan,Latin,Kenji Mizoguchi,Kansai Education Division,5.8,100,3,2
+tt0015861,La fidanzata di Glomdal,1926,1/1/1926,"Drama, Romance",115,"Norway, Sweden",Latin,Carl Theodor Dreyer,Victoria Film,6.6,417,2,4
+tt0015863,Io e la vacca,1925,2/7/1927,"Comedy, Western",69,USA,English,Buster Keaton,Buster Keaton Productions,7.2,"3,710.00",23,29
+tt0015864,La febbre dell'oro,1925,10/23/1925,"Adventure, Comedy, Drama",95,USA,English,Charles Chaplin,Charles Chaplin Productions,8.2,"97,480.00",190,125
+tt0015872,The Goose Woman,1925,12/27/1925,Drama,80,USA,English,Clarence Brown,Universal Pictures,6.9,151,6,3
+tt0015881,Rapacità,1924,1/26/1925,"Drama, Thriller, Western",140,USA,English,Erich von Stroheim,Metro-Goldwyn Pictures Corporation,8.1,"8,898.00",88,50
+tt0015883,Gribiche,1926,4/2/1926,Drama,113,France,French,Jacques Feyder,Films Albatros,6.9,225,2,7
+tt0015909,Her Sister from Paris,1925,8/2/1925,Comedy,70,USA,English,Sidney Franklin,Joseph M. Schenck Productions,6.5,151,7,1
+tt0015935,El húsar de la muerte,1925,11/24/1925,"Biography, Drama, History",65,Chile,Latin,Pedro Sienna,Film Andes S.A.,6.6,112,4,3
+tt0016004,Il ventaglio di Lady Windermere,1925,4/8/1927,Comedy,120,USA,English,Ernst Lubitsch,Warner Bros.,7.3,978,17,11
+tt0016005,Lady of the Night,1925,2/23/1925,"Drama, Romance",70,USA,English,Monta Bell,Metro-Goldwyn Pictures Corporation,6.6,544,19,4
+tt0016006,The Lady,1925,2/8/1925,Drama,96,USA,Latin,Frank Borzage,Norma Talmadge Film Corporation,5,125,3,2
+tt0016013,Lazybones,1925,11/6/1925,"Action, Comedy, Drama",80,USA,English,Frank Borzage,Fox Film Corporation,7.2,475,11,6
+tt0016023,Lights of Old Broadway,1925,11/1/1925,"Drama, Romance",70,USA,English,Monta Bell,Cosmopolitan Productions,6,448,1,13
+tt0016028,Little Annie Rooney,1925,10/18/1925,"Drama, Comedy",94,USA,Greek,William Beaudine,Mary Pickford Company,6.7,877,16,5
+tt0016029,Il piccolo colonnello,1935,2/22/1935,"Comedy, Family, Musical",81,USA,English,David Butler,Fox Film Corporation,7.1,"1,420.00",21,5
+tt0016039,Un mondo perduto,1925,6/22/1925,"Adventure, Fantasy, Thriller",110,USA,Latin,Harry O. Hoyt,First National Pictures,7,"4,513.00",84,64
+tt0016104,La vedova allegra,1925,1/25/1926,"Drama, Romance",137,USA,Latin,Erich von Stroheim,An Erich von Stroheim Production,7.3,"2,126.00",16,19
+tt0016123,The Monster,1925,3/16/1925,"Comedy, Horror, Mystery",86,USA,English,Roland West,Metro-Goldwyn Pictures Corporation,6.2,906,29,18
+tt0016142,The Mystic,1925,9/27/1925,Drama,70,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),6.4,105,3,5
+tt0016185,Orochi,1925,11/20/1925,"Action, Adventure",74,Japan,Japanese,Buntarô Futagawa,Bando Tsumasaburo Production,7.1,310,5,7
+tt0016201,Parisian Love,1925,8/1/1925,"Crime, Drama, Romance",70,USA,English,Louis J. Gasnier,B.P. Schulberg Productions,6.2,205,10,3
+tt0016205,Paths to Paradise,1925,6/29/1925,"Comedy, Crime, Romance",78,USA,English,Clarence G. Badger,Paramount Pictures,6.7,127,7,2
+tt0016220,Il fantasma dell'opera,1925,11/15/1925,Horror,93,USA,Latin,"Rupert Julian, Lon Chaney",Universal Pictures,7.6,"16,255.00",152,99
+tt0016226,The Plastic Age,1925,12/15/1925,"Comedy, Romance, Sport",73,USA,English,Wesley Ruggles,B.P. Schulberg Productions,6,269,11,2
+tt0016230,Il labirinto delle passioni,1925,4/10/1905,"Drama, Romance",75,"UK, Germany",English,Alfred Hitchcock,Bavaria Film,6,"2,111.00",23,23
+tt0016232,Poil de carotte,1925,2/26/1926,Drama,108,France,French,Julien Duvivier,Films A. Legrand,7,190,4,5
+tt0016240,Prem Sanyas,1925,2/4/1926,Drama,97,"India, Germany",Latin,"Franz Osten, Himanshu Rai",Bombay Talkies Films,6.8,134,3,1
+tt0016241,Pretty Ladies,1925,9/6/1925,"Comedy, Drama",74,USA,English,Monta Bell,Metro-Goldwyn Pictures Corporation,3.7,132,2,1
+tt0016258,The Rag Man,1925,2/16/1925,"Drama, Comedy",68,USA,Yiddish,Edward F. Cline,Metro-Goldwyn Pictures Corporation,7.1,319,11,3
+tt0016276,The Red Kimona,1925,11/16/1925,"Biography, Drama, Romance",77,USA,English,"Walter Lang, Dorothy Davenport",Mrs. Wallace Reid Productions,6.6,297,,5
+tt0016288,Riders of the Purple Sage,1925,3/15/1925,"Action, Drama, Western",56,USA,English,Lynn Reynolds,Fox Film Corporation,6.4,170,6,3
+tt0016294,The Road to Yesterday,1925,11/15/1925,"Drama, Fantasy, Romance",107,USA,English,Cecil B. DeMille,DeMille Pictures Corporation,6.8,126,7,1
+tt0016308,Zingaresca,1925,8/2/1925,Comedy,104,USA,English,D.W. Griffith,Paramount Pictures,6.6,483,18,9
+tt0016309,"Sally, Irene and Mary",1925,12/27/1925,"Comedy, Drama",58,USA,English,Edmund Goulding,Metro-Goldwyn-Mayer (MGM),3.8,132,3,3
+tt0016310,The Salvation Hunters,1925,2/15/1925,Drama,70,USA,Latin,Josef von Sternberg,Academy Photoplays,6.7,322,7,10
+tt0016332,Le sette probabilità,1925,5/27/1926,"Comedy, Romance",56,USA,English,Buster Keaton,Buster Keaton Productions,7.9,"8,943.00",55,53
+tt0016338,She,1925,6/21/1925,"Adventure, Fantasy, Sci-Fi",98,"UK, Germany",English,"Leander De Cordova, G.B. Samuelson",A to X Productions,6.1,113,5,3
+tt0016377,Soul-Fire,1925,5/31/1925,Drama,88,USA,English,John S. Robertson,Inspiration Pictures,4.1,112,3,13
+tt0016392,Die Stadt ohne Juden,1924,5/5/1924,Drama,80,Austria,Latin,H.K. Breslauer,H. K. Breslauer-Film,6.4,219,7,11
+tt0016394,Stage Struck,1925,11/16/1925,Comedy,70,USA,English,Allan Dwan,Paramount Pictures,6.5,,6,4
+tt0016395,Stella Dallas,1925,11/16/1925,Drama,110,USA,English,Henry King,The Samuel Goldwyn Company,7.2,277,10,7
+tt0016461,Tumbleweeds,1925,12/27/1925,Western,78,USA,English,"King Baggot, William S. Hart",William S. Hart Productions,6.5,538,20,7
+tt0016473,Il trio infernale,1925,4/10/1905,"Crime, Drama, Romance",86,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),7.2,"1,613.00",35,22
+tt0016480,The Vanishing American,1925,2/15/1926,Western,110,USA,English,George B. Seitz,Paramount Pictures,6.8,288,14,6
+tt0016481,Varieté,1925,1/31/1926,"Crime, Drama, Romance",104,Germany,German,Ewald André Dupont,Universum Film (UFA),7.4,"1,022.00",13,19
+tt0016491,Visages d'enfants,1925,4/8/1905,"Drama, Mystery, Romance",114,"Switzerland, France",French,Jacques Feyder,Mundus-Film,7.7,693,15,11
+tt0016493,Il viaggio immaginario,1926,4/30/1926,"Comedy, Drama, Fantasy",80,France,French,René Clair,Georges Loureau,6.7,152,2,3
+tt0016544,Il mago di Oz,1925,1/27/1925,"Comedy, Family, Fantasy",81,USA,Latin,Larry Semon,Chadwick Pictures Corporation,5.1,"1,395.00",48,18
+tt0016545,Wolfblood,1925,7/16/1925,"Adventure, Drama, Romance",68,USA,English,"George Chesebro, Bruce Mitchell",Ryan Brothers Productions,5.8,242,12,11
+tt0016548,A Woman of the World,1925,12/28/1925,"Comedy, Drama",70,USA,Latin,Malcolm St. Clair,Paramount Pictures,6.9,123,7,1
+tt0016559,Zakroyshchik iz Torzhka,1925,10/27/1925,Comedy,65,Soviet Union,Latin,Yakov Protazanov,Mezhrabpom-Rus,6.8,111,1,1
+tt0016560,Zander the Great,1925,5/2/1925,"Action, Comedy, Drama",80,USA,English,George W. Hill,Cosmopolitan Productions,5.4,609,3,2
+tt0016563,L'erede dei Grishus,1925,6/1/1929,Drama,110,Germany,Latin,Arthur von Gerlach,Universum Film (UFA),6.6,123,2,3
+tt0016627,Bardelys il magnifico,1926,9/30/1926,"Drama, Romance",90,USA,English,King Vidor,Metro-Goldwyn-Mayer (MGM),7,"1,050.00",17,15
+tt0016629,The Bat,1926,3/21/1926,"Mystery, Thriller",86,USA,English,Roland West,Roland West Productions,6.5,678,29,16
+tt0016630,Se perdo la pazienza...,1926,3/30/1927,"Action, Comedy, Romance",77,USA,English,Buster Keaton,Buster Keaton Productions,7,"2,820.00",23,27
+tt0016634,Beau Geste,1926,8/25/1926,"Action, Adventure, Drama",101,USA,English,Herbert Brenon,Paramount Pictures,7,338,11,3
+tt0016640,The Bells,1926,7/30/1926,"Crime, Drama, Horror",68,USA,English,James Young,Chadwick Pictures Corporation,6.5,354,15,10
+tt0016643,The Better 'Ole,1926,10/23/1926,"Comedy, War, Drama",95,USA,English,Charles Reisner,Warner Bros.,6.3,217,9,1
+tt0016646,Beverly of Graustark,1926,4/19/1926,"Comedy, Romance",70,USA,English,Sidney Franklin,Cosmopolitan Productions,5.9,451,3,13
+tt0016654,Il pirata nero,1926,3/8/1926,"Adventure, Action",88,USA,Latin,Albert Parker,Elton Corporation,7.1,"1,656.00",34,26
+tt0016655,Il corvo,1926,4/10/1905,"Crime, Drama, Romance",86,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),6.8,618,18,7
+tt0016664,L'aquila azzurra,1926,9/12/1926,"Action, Drama",58,USA,English,John Ford,Fox Film Corporation,5.5,139,5,2
+tt0016669,La Bohème,1926,3/13/1926,"Drama, Romance",95,USA,Latin,King Vidor,Metro-Goldwyn-Mayer (MGM),7.3,"1,427.00",23,5
+tt0016672,The Boob,1926,5/17/1926,"Comedy, Romance",64,USA,English,William A. Wellman,Metro-Goldwyn-Mayer (MGM),5,438,13,3
+tt0016690,Brown of Harvard,1926,5/2/1926,"Action, Drama, Romance",85,USA,English,Jack Conway,Metro-Goldwyn-Mayer (MGM),6.2,"1,402.00",12,3
+tt0016691,Brudeferden i Hardanger,1926,12/26/1926,"Drama, Romance",104,Norway,Latin,Rasmus Breistein,Paramount Pictures,6.6,117,1,2
+tt0016762,Dancing Mothers,1926,3/1/1926,Drama,66,USA,English,Herbert Brenon,Paramount Pictures,6.6,142,13,4
+tt0016804,Don Juan,1926,2/19/1927,"Adventure, Romance",110,USA,English,Alan Crosland,Warner Bros.,7,728,26,15
+tt0016822,Ella Cinders,1926,6/6/1926,"Comedy, Romance",75,USA,English,Alfred E. Green,John McCormick Productions,6.7,888,14,7
+tt0016827,Eve's Leaves,1926,6/13/1926,"Comedy, Romance",75,USA,English,Paul Sloane,DeMille Pictures Corporation,4.6,120,2,1
+tt0016832,Exit Smiling,1926,11/14/1926,"Comedy, Romance",77,USA,English,Sam Taylor,Metro-Goldwyn-Mayer (MGM),6.9,399,15,4
+tt0016847,Faust,1926,1/31/1927,"Drama, Fantasy, Horror",107,Germany,German,F.W. Murnau,Universum Film (UFA),8.1,"13,588.00",65,54
+tt0016854,Le disgrazie di adamo,1926,8/22/1926,Comedy,70,USA,English,Howard Hawks,Fox Film Corporation,6.4,208,9,3
+tt0016871,Fine Manners,1926,8/29/1926,Comedy,70,USA,Latin,"Richard Rosson, Lewis Milestone",Paramount Pictures,5.8,770,5,3
+tt0016884,La carne e il diavolo,1926,12/25/1926,"Drama, Romance",112,USA,Latin,Clarence Brown,Metro-Goldwyn-Mayer (MGM),7.6,"3,901.00",39,28
+tt0016895,Il re degli straccioni,1926,4/5/1926,"Action, Comedy, Romance",58,USA,English,Sam Taylor,The Harold Lloyd Corporation,7.5,"1,401.00",17,12
+tt0016914,Geheimnisse einer Seele,1926,4/11/1927,Drama,97,Germany,German,Georg Wilhelm Pabst,Neumann-Filmproduktion,6.9,632,11,18
+tt0016939,The Great K & A Train Robbery,1926,10/17/1926,Western,53,USA,English,Lewis Seiler,Lew Seiler Productions,6.3,270,9,2
+tt0016947,Hands Up!,1926,1/11/1926,"Action, Comedy, War",60,USA,English,Clarence G. Badger,Paramount Pictures,6.6,213,9,3
+tt0016953,La montagna dell'amore,1926,11/1/1926,Drama,100,Germany,German,Arnold Fanck,Berg- und Sportfilm,6.7,675,17,17
+tt0016971,His First Flame,1927,5/3/1927,Comedy,48,USA,English,Harry Edwards,Mack Sennett Comedies,6,127,5,4
+tt0017004,It's the Old Army Game,1926,7/11/1926,"Adventure, Comedy, Romance",70,USA,English,A. Edward Sutherland,Paramount Pictures,6.4,245,10,4
+tt0017028,Kid Boots,1926,10/4/1926,"Comedy, Romance",77,USA,English,Frank Tuttle,Famous Players-Lasky Corporation,6.9,130,8,2
+tt0017029,Kiki,1926,4/4/1926,Comedy,108,USA,English,Clarence Brown,Norma Talmadge Film Corporation,6.7,399,12,2
+tt0017048,Una pagina di follia,1926,9/24/1926,"Drama, Thriller",70,Japan,Japanese,Teinosuke Kinugasa,Kinugasa Productions,7.4,"2,758.00",30,27
+tt0017075,Il pensionante,1927,2/14/1927,"Crime, Drama, Mystery",68,UK,Latin,Alfred Hitchcock,Gainsborough Pictures,7.3,"10,024.00",102,87
+tt0017082,Love 'Em and Leave 'Em,1926,3/19/1926,"Comedy, Drama, Romance",76,USA,Japanese,Frank Tuttle,Famous Players-Lasky Corporation,6.3,200,5,1
+tt0017096,Maciste all'inferno,1925,3/31/1926,"Action, Drama, Fantasy",95,Italy,Italian,Guido Brignone,Fert Studios,6.7,430,11,19
+tt0017103,The Magician,1926,10/24/1926,"Drama, Fantasy, Horror",83,USA,English,Rex Ingram,Metro-Goldwyn Pictures Corporation,6.7,545,18,11
+tt0017119,Mantrap,1926,7/24/1926,Comedy,86,USA,English,Victor Fleming,Paramount Pictures,6.8,309,13,6
+tt0017120,Mare Nostrum,1926,4/3/1927,"Drama, War",102,USA,English,Rex Ingram,Metro-Goldwyn Pictures Corporation,6.8,,11,4
+tt0017128,La madre,1926,10/11/1926,Drama,89,Soviet Union,Japanese,Vsevolod Pudovkin,Mezhrabpom-Rus,7.5,"2,442.00",13,13
+tt0017136,Metropolis,1927,10/1/1928,"Drama, Sci-Fi",153,Germany,German,Fritz Lang,Universum Film (UFA),8.3,"156,076.00",495,208
+tt0017159,Miss Mend,1926,10/26/1926,"Adventure, Comedy, Crime",250,Soviet Union,Russian,"Boris Barnet, Fyodor Otsep",Mezhrabpom-Rus,6.8,263,8,10
+tt0017184,My Lady of Whims,1925,12/1/1925,Comedy,59,USA,English,Dallas M. Fitzgerald,Dallas M. Fitzgerald Productions,5.7,101,4,1
+tt0017195,Namus,1925,4/8/1905,Drama,62,Soviet Union,Sign Languages,Amo Bek-Nazaryan,Armenkino,7,109,2,1
+tt0017196,Nanà,1926,6/25/1926,"Drama, Romance",150,France,French,Jean Renoir,Les Films Jean Renoir,6.8,682,10,10
+tt0017198,Nell Gwyn,1926,1/3/1927,"Biography, Drama, History",80,UK,English,Herbert Wilcox,British National Films,5.2,227,2,1
+tt0017226,Old Ironsides,1926,12/6/1926,"Drama, History",111,USA,Japanese,James Cruze,Paramount Pictures,6.7,185,5,4
+tt0017271,Secondo la legge,1926,12/3/1926,Drama,80,Soviet Union,Russian,Lev Kuleshov,Goskino,7.7,919,10,15
+tt0017293,Protsess o tryokh millionakh,1926,8/23/1926,Comedy,66,Soviet Union,Japanese,Yakov Protazanov,Mezhrabpom-Rus,7.1,127,3,1
+tt0017329,The Road to Mandalay,1926,6/28/1926,Drama,70,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),6.6,150,4,5
+tt0017338,Der Rosenkavalier,1925,1/10/1926,Comedy,105,Austria,German,Robert Wiene,Pan-Film,6,103,1,2
+tt0017350,La lettera rossa,1926,1/8/1927,Drama,115,USA,English,Victor Sjöström,Metro-Goldwyn-Mayer (MGM),7.7,"1,542.00",29,13
+tt0017354,Il mostro del mare,1926,1/15/1926,"Action, Adventure, Fantasy",136,USA,English,Millard Webb,Warner Bros.,6.5,136,6,3
+tt0017374,La corsa a ostacoli di Shamrock,1926,5/2/1926,"Romance, Drama",66,USA,English,John Ford,Fox Film Corporation,5.8,126,3,3
+tt0017378,Shinel,1926,5/10/1926,Drama,84,Soviet Union,Japanese,"Grigoriy Kozintsev, Leonid Trauberg",Leningradkino,6.7,283,2,2
+tt0017382,The Show-Off,1926,8/16/1926,"Comedy, Drama",82,USA,English,Malcolm St. Clair,Paramount Pictures,6.8,245,10,3
+tt0017409,La vita è un charleston,1926,7/31/1926,Comedy,80,USA,English,Ernst Lubitsch,Warner Bros.,7,317,6,6
+tt0017410,So's Your Old Man,1926,10/25/1926,Comedy,67,USA,English,Gregory La Cava,Paramount Pictures,6.2,167,4,5
+tt0017416,Il figlio dello sceicco,1926,9/5/1926,"Adventure, Drama, Romance",68,USA,English,George Fitzmaurice,Feature Productions,6.6,"1,788.00",24,22
+tt0017419,The Sorrows of Satan,1926,10/12/1926,"Drama, Romance",90,USA,English,D.W. Griffith,D.W. Griffith Productions,6.2,206,7,4
+tt0017423,Passerotti,1926,4/9/1905,Drama,109,USA,English,"William Beaudine, Tom McNamara",Pickford Corporation,7.3,"1,148.00",33,24
+tt0017437,La grande sparata,1926,9/19/1926,Comedy,75,USA,English,Frank Capra,Harry Langdon Corporation,6.7,766,18,17
+tt0017438,Der Student von Prag,1926,12/26/1926,"Drama, Horror",110,Germany,German,Henrik Galeen,Sokal-Film GmbH,6.9,573,12,8
+tt0017448,Tartufo,1925,4/10/1905,Drama,74,Germany,German,F.W. Murnau,Universum Film (UFA),7.1,"1,945.00",16,30
+tt0017449,La tentatrice,1926,10/3/1926,"Drama, Romance",62,USA,English,"Fred Niblo, Mauritz Stiller",Metro-Goldwyn-Mayer (MGM),6.9,"1,066.00",26,11
+tt0017463,I tre furfanti,1926,8/28/1926,"Romance, Western",92,USA,English,John Ford,Fox Film Corporation,7.5,"1,010.00",18,22
+tt0017480,Torrent,1926,2/8/1926,"Drama, Romance",88,USA,English,Monta Bell,Cosmopolitan Productions,6.9,691,10,8
+tt0017483,Di corsa dietro un cuore,1926,3/21/1926,"Adventure, Comedy, Romance",62,USA,English,Harry Edwards,Harry Langdon Corporation,6.1,604,15,19
+tt0017519,The Volga Boatman,1926,5/23/1926,"Drama, Romance",120,USA,English,Cecil B. DeMille,DeMille Pictures Corporation,6.6,122,10,6
+tt0017534,L'allievo di West Point,1927,4/12/1905,"Drama, Romance, Sport",95,USA,Japanese,Edward Sedgwick,Metro-Goldwyn-Mayer (MGM),6.4,"1,722.00",15,5
+tt0017540,Gloria,1926,11/23/1926,"Comedy, Drama, War",116,USA,Japanese,Raoul Walsh,Fox Film Corporation,6.8,347,8,7
+tt0017567,Fiore del deserto,1926,10/14/1926,"Drama, Romance, Western",89,USA,Spanish,Henry King,The Samuel Goldwyn Company,7,690,15,6
+tt0017619,Almost Human,1927,12/26/1927,"Drama, Romance",60,USA,English,Frank Urson,DeMille Pictures Corporation,7.5,339,13,13
+tt0017621,La mandragora,1928,1/25/1928,"Drama, Fantasy, Horror",108,Germany,German,Henrik Galeen,Ama-Film GmbH,6.2,285,8,8
+tt0017632,Annie Laurie,1927,5/11/1927,"Drama, Romance",90,USA,English,John S. Robertson,Metro-Goldwyn-Mayer (MGM),5.9,355,5,1
+tt0017653,Baby ryazanskie,1927,12/13/1927,Drama,67,Soviet Union,Japanese,"Ivan Pravov, Olga Preobrazhenskaya",Sovkino,7.1,196,3,1
+tt0017662,Barbed Wire,1927,9/10/1927,"Drama, Romance, War",67,USA,Japanese,"Rowland V. Lee, Mauritz Stiller",Paramount Pictures,7,186,5,3
+tt0017667,The Beloved Rogue,1927,3/12/1927,"Adventure, Drama, History",99,USA,English,Alan Crosland,Feature Productions,6.9,701,14,6
+tt0017726,Café Elektric,1927,11/25/1927,Drama,91,Austria,German,Gustav Ucicky,Sascha-Film,6.4,106,4,1
+tt0017735,Captain Salvation,1927,5/14/1927,"Drama, Romance",87,USA,English,John S. Robertson,Metro-Goldwyn-Mayer (MGM),6.8,228,14,5
+tt0017736,Casanova,1927,4/10/1905,"Biography, Drama",132,"France, Germany",French,Alexandre Volkoff,Ciné-Alliance,6.8,171,4,2
+tt0017739,Il castello degli spettri,1927,7/15/1929,"Comedy, Horror, Mystery",108,USA,English,Paul Leni,Universal Pictures,7.1,"2,654.00",53,57
+tt0017750,Chicago,1927,12/23/1927,"Comedy, Crime, Drama",118,USA,English,Frank Urson,DeMille Pictures Corporation,7.1,374,13,14
+tt0017751,I figli del divorzio,1927,4/25/1927,"Drama, Romance",70,USA,Japanese,"Frank Lloyd, Josef von Sternberg",Famous Players-Lasky Corporation,6.6,213,10,8
+tt0017765,Tuo per sempre,1927,11/1/1927,"Comedy, Drama, Sport",66,USA,English,"James W. Horne, Buster Keaton",Joseph M. Schenck Productions,7.1,"4,268.00",37,52
+tt0017809,La ragazza con la cappelliera,1927,4/19/1927,"Comedy, Drama, Romance",60,Soviet Union,Japanese,Boris Barnet,Mezhrabpom-Rus,7.2,599,10,8
+tt0017825,Il declino,1927,10/24/1927,"Adventure, Drama, Thriller",80,UK,English,Alfred Hitchcock,Gainsborough Pictures,6.1,"2,082.00",28,30
+tt0017832,L'atleta innamorato,1927,9/25/1927,"Drama, Sport",62,USA,English,Millard Webb,First National Pictures,4.8,206,7,2
+tt0017843,Fragile virtù,1927,3/5/1928,"Romance, Thriller",80,UK,English,Alfred Hitchcock,Gainsborough Pictures,5.7,"2,465.00",39,34
+tt0017860,The Fair Co-Ed,1927,10/23/1927,Comedy,71,USA,English,Sam Wood,Cosmopolitan Productions,5.6,710,4,1
+tt0017886,The First Auto,1927,9/18/1927,"Comedy, Drama",75,USA,English,Roy Del Ruth,Warner Bros.,6.4,193,12,4
+tt0017918,The Gaucho,1927,1/23/1928,"Adventure, Romance",115,USA,English,F. Richard Jones,Elton Corporation,6.9,284,12,10
+tt0017925,Come vinsi la guerra,1926,3/30/1927,"Action, Adventure, Comedy",67,USA,English,"Clyde Bruckman, Buster Keaton",Buster Keaton Productions,8.1,"78,769.00",288,117
+tt0017928,Get Your Man,1927,12/7/1927,"Comedy, Romance",63,USA,English,Dorothy Arzner,Paramount Famous Lasky Corporation,6.7,162,8,3
+tt0017938,La glace à trois faces,1983,3/13/1983,"Drama, Romance",45,France,French,Jean Epstein,Films Jean Epstein,7,759,7,4
+tt0017961,La Felicità,1935,3/15/1935,"Comedy, Drama",95,Soviet Union,Japanese,Aleksandr Medvedkin,Vostokfilm,7.4,919,5,11
+tt0017998,Hindle Wakes,1927,9/12/1927,"Drama, Romance",120,UK,English,Maurice Elvey,Gaumont British Picture Corporation,7.1,237,11,7
+tt0018014,Hotel Imperial,1927,1/1/1927,"Drama, War",85,USA,Japanese,Mauritz Stiller,Paramount Pictures,6.6,210,9,7
+tt0018016,Hula,1927,8/28/1927,"Drama, Romance",64,USA,English,Victor Fleming,Paramount Pictures,6.4,,7,3
+tt0018033,Cosetta,1927,2/15/1927,"Comedy, Romance",72,USA,Japanese,"Clarence G. Badger, Josef von Sternberg",Paramount Pictures,7.3,"2,912.00",65,24
+tt0018037,Il cantante di jazz,1927,2/4/1928,"Drama, Music, Musical",88,USA,English,Alan Crosland,Warner Bros.,6.5,"8,866.00",104,63
+tt0018045,Le joueur d'échecs,1927,7/20/1927,"Drama, Fantasy, War",135,France,French,Raymond Bernard,Société des Films Historiques,6.8,263,6,12
+tt0018051,Il fratello minore,1927,1/17/1927,"Comedy, Drama, Family",82,USA,English,"Ted Wilde, Harold Lloyd",The Harold Lloyd Corporation (II),7.6,"3,747.00",30,25
+tt0018054,Il re dei re,1927,6/26/1905,"Biography, Drama, History",160,USA,English,Cecil B. DeMille,DeMille Pictures Corporation,7.2,"1,890.00",48,24
+tt0018066,La fine di San Pietroburgo,1927,4/29/1969,Drama,85,Soviet Union,Japanese,"Vsevolod Pudovkin, Mikhail Doller",Mezhrabpom-Rus,7.3,"1,494.00",17,13
+tt0018087,Il Giglio nelle tenebre,1927,1/30/1928,"Drama, Romance",104,Germany,German,Georg Wilhelm Pabst,Universum Film (UFA),7.3,660,10,11
+tt0018097,Il fantasma del castello,1927,12/11/1928,Horror,69,USA,Japanese,Tod Browning,Metro-Goldwyn-Mayer (MGM),6.8,"1,161.00",23,21
+tt0018102,Le sue ultime mutandine,1927,3/26/1927,Comedy,60,USA,English,Frank Capra,Harry Langdon Corporation,6.3,431,14,14
+tt0018107,Anna Karenina,1927,1/2/1928,"Drama, Romance",82,USA,Japanese,"Edmund Goulding, John Gilbert",Metro-Goldwyn-Mayer (MGM),6.9,885,18,10
+tt0018113,The Love of Sunya,1927,3/11/1927,Drama,78,USA,Japanese,Albert Parker,Gloria Swanson Pictures,6.1,764,6,4
+tt0018138,"Man, Woman and Sin",1927,11/19/1927,Drama,70,USA,English,Monta Bell,Metro-Goldwyn-Mayer (MGM),5.9,356,3,1
+tt0018166,Mockery,1927,8/13/1927,"Drama, Romance",75,USA,English,Benjamin Christensen,Metro-Goldwyn-Mayer (MGM),6.7,390,17,4
+tt0018179,Mr. Wu,1927,3/26/1927,"Drama, Romance",91,USA,Mandarin,William Nigh,Metro-Goldwyn-Mayer (MGM),6.4,525,19,3
+tt0018183,My Best Girl,1927,10/31/1927,"Comedy, Romance",80,USA,English,Sam Taylor,Mary Pickford Company,7.4,787,22,12
+tt0018192,Napoleone,1927,4/7/1927,"Biography, Drama, History",240,France,Japanese,Abel Gance,Ciné France,8.1,"6,864.00",66,44
+tt0018217,Ottobre!,1927,9/24/1928,"Drama, History",142,Soviet Union,Russian,"Grigoriy Aleksandrov, Sergei M. Eisenstein",Sovkino,7.5,"6,877.00",50,23
+tt0018218,Il re del sottosuolo,1927,9/4/1927,"Drama, History, Romance",88,USA,English,Alan Crosland,Warner Bros.,6.4,316,17,6
+tt0018235,Il mio cuore aveva ragione,1927,3/6/1927,"Comedy, Romance",70,USA,English,Alfred Santell,John McCormick Productions,6.8,119,7,13
+tt0018247,Passione di principe,1927,7/23/1927,"Comedy, Romance",76,USA,Russian,Howard Hawks,Fox Film Corporation,6.3,110,2,5
+tt0018253,Ferro e fuoco,1927,9/1/1927,"Drama, Romance, Sport",150,USA,English,Alfred Santell,First National Pictures,5.8,468,4,2
+tt0018268,Potseluy Meri Pikford,1927,9/9/1927,Comedy,56,Soviet Union,Russian,Sergey Komarov,Mezhrabpom-Rus,6.3,103,3,1
+tt0018297,Quality Street,1927,11/1/1927,"Comedy, Drama, Romance",115,USA,Russian,Sidney Franklin,Cosmopolitan Productions,6.4,733,6,
+tt0018311,The Red Mill,1927,1/29/1927,"Comedy, Romance",74,USA,English,Roscoe 'Fatty' Arbuckle,Cosmopolitan Productions,6.6,"1,342.00",18,3
+tt0018328,Vinci per me!,1927,10/1/1927,"Drama, Romance, Sport",116,UK,Russian,Alfred Hitchcock,British International Pictures (BIP),6.2,"3,088.00",46,34
+tt0018351,Running Wild,1927,6/11/1927,Comedy,68,USA,English,Gregory La Cava,Paramount Pictures,7,,7,7
+tt0018362,The Scar of Shame,1927,4/10/1905,"Crime, Drama, Romance",68,USA,Russian,Frank Peregini,Colored Players Film Corporation,6.2,327,16,1
+tt0018379,Settimo cielo,1927,1/30/1928,"Drama, Romance",110,USA,English,Frank Borzage,Frank Borzage Production,7.6,"3,098.00",32,34
+tt0018389,A Ship Comes In,1928,1/4/1928,Drama,70,USA,Russian,William K. Howard,DeMille Pictures Corporation,5.6,141,3,13
+tt0018392,Shooting Stars,1928,2/1/1928,"Drama, Romance",80,UK,English,"Anthony Asquith, A.V. Bramble",British Instructional Films (BIF),7.1,352,7,14
+tt0018397,The Show,1927,1/22/1927,"Crime, Drama",76,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),6.9,498,15,9
+tt0018413,"Slide, Kelly, Slide",1927,3/12/1927,"Comedy, Sport",80,USA,English,Edward Sedgwick,Metro-Goldwyn-Mayer (MGM),4,481,2,13
+tt0018440,Spring Fever,1927,10/22/1927,Comedy,78,USA,English,Edward Sedgwick,Metro-Goldwyn-Mayer (MGM),6,884,13,4
+tt0018451,Il principe studente,1927,11/7/1928,"Drama, Romance",106,USA,English,"Ernst Lubitsch, John M. Stahl",Metro-Goldwyn-Mayer (MGM),7.6,"1,335.00",28,11
+tt0018453,Sumka dipkuryera,1927,4/10/1905,Thriller,50,Soviet Union,Russian,Aleksandr Dovzhenko,Vseukrainske Foto Kino Upravlinnia (VUFKU),6.3,103,2,13
+tt0018455,Aurora,1927,3/31/1928,"Drama, Romance",94,USA,English,F.W. Murnau,Fox Film Corporation,8.1,"46,069.00",250,186
+tt0018464,Tarzan and the Golden Lion,1927,3/20/1927,"Action, Adventure",57,USA,English,J.P. McGowan,Robertson-Cole Pictures Corporation,5.5,126,6,4
+tt0018471,Tell It to the Marines,1926,1/29/1927,"Comedy, Drama, Romance",103,USA,English,George W. Hill,Metro-Goldwyn-Mayer (MGM),6.9,"1,422.00",29,5
+tt0018484,Three's a Crowd,1927,8/28/1927,"Comedy, Drama",60,USA,English,Harry Langdon,Harry Langdon Corporation,6.1,105,10,6
+tt0018487,Tillie the Toiler,1927,6/5/1927,"Comedy, Drama",70,USA,English,Hobart Henley,Cosmopolitan Productions,5.8,465,2,2
+tt0018505,Tretya meshchanskaya,1927,4/10/1905,"Comedy, Drama",86,Soviet Union,Russian,Abram Room,Sovkino,7.4,"1,034.00",9,9
+tt0018513,Twelve Miles Out,1927,7/9/1927,Drama,85,USA,English,Jack Conway,Metro-Goldwyn-Mayer (MGM),5.2,551,2,1
+tt0018515,Notte d'Arabia,1927,9/23/1927,"Adventure, Comedy, Romance",92,USA,English,Lewis Milestone,The Caddo Company,6.7,888,27,6
+tt0018523,Un cappello di paglia di Firenze,1928,1/13/1928,Comedy,108,"France, Germany",French,René Clair,Films Albatros,6.8,761,11,7
+tt0018524,Uncle Tom's Cabin,1927,9/2/1928,"Drama, History",144,USA,English,Harry A. Pollard,Universal Pictures,6.7,379,22,6
+tt0018526,Le notti di Chicago,1927,10/29/1927,"Crime, Drama, Film-Noir",80,USA,English,"Josef von Sternberg, Arthur Rosson",Paramount Pictures,7.6,"2,545.00",,50
+tt0018528,Lo sconosciuto,1927,4/9/1928,"Drama, Horror, Romance",63,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),7.8,"6,992.00",109,53
+tt0018530,Controcorrente,1927,1/30/1927,"Comedy, Drama",60,USA,English,John Ford,Fox Film Corporation,6.2,248,8,13
+tt0018566,When a Man Loves,1927,8/21/1927,"History, Romance",111,USA,English,Alan Crosland,Warner Bros.,6.8,308,14,3
+tt0018578,Ali,1927,1/5/1929,"Drama, Romance, War",144,USA,English,"William A. Wellman, Harry d'Abbadie d'Arrast",Paramount Famous Lasky Corporation,7.5,"11,139.00",95,92
+tt0018579,Winners of the Wilderness,1927,1/15/1927,"Drama, History, War",68,USA,English,W.S. Van Dyke,Metro-Goldwyn-Mayer (MGM),3.1,105,2,1
+tt0018588,Enigma,1929,4/29/1929,Drama,76,Germany,German,Curtis Bernhardt,Terra-Filmkunst,6.7,200,6,5
+tt0018600,Xi xiang ji,1927,9/8/1927,"Drama, Romance",49,"China, Hong Kong",Mandarin,"Minwei Li, Hou Yao",Minxin Film Company,6.3,106,5,3
+tt0018615,Crisi,1928,3/18/1929,"Drama, Romance",107,Germany,German,Georg Wilhelm Pabst,Deutsche Universal-Film,7,291,8,2
+tt0018618,Amore e mare,1928,4/7/1928,"Drama, Romance",85,USA,English,William Nigh,Metro-Goldwyn-Mayer (MGM),6,948,18,4
+tt0018678,La battaglia dei sessi,1928,4/11/1905,Comedy,88,USA,English,D.W. Griffith,Feature Productions,6.5,395,12,5
+tt0018684,I mendicanti della vita,1928,9/22/1928,"Adventure, Drama",100,USA,English,William A. Wellman,Paramount Famous Lasky Corporation,7.5,945,24,17
+tt0018722,Bringing Up Father,1928,3/17/1928,Comedy,70,USA,Russian,Jack Conway,Metro-Goldwyn-Mayer (MGM),4.9,134,3,1
+tt0018737,Il vaso di Pandora,1929,2/22/1930,"Crime, Drama, Romance",109,Germany,German,Georg Wilhelm Pabst,Nero-Film AG,7.9,"9,541.00",90,85
+tt0018742,Il cameraman,1928,12/19/1970,"Comedy, Drama, Family",76,USA,English,"Edward Sedgwick, Buster Keaton",Metro-Goldwyn-Mayer (MGM),8.1,"10,101.00",61,49
+tt0018749,Il fidanzato di cartone,1928,9/2/1928,"Comedy, Romance",50,USA,English,Robert Z. Leonard,Cosmopolitan Productions,6.2,810,7,2
+tt0018756,Tabarin di lusso,1928,8/20/1928,Comedy,86,UK,English,Alfred Hitchcock,British International Pictures (BIP),5.6,"1,968.00",37,
+tt0018770,La caduta della casa Usher,1928,10/5/1928,Horror,63,France,Russian,Jean Epstein,Films Jean Epstein,7.3,"3,369.00",26,39
+tt0018773,Il circo,1928,10/1/1928,"Comedy, Romance",72,USA,English,Charles Chaplin,Charles Chaplin Productions,8.1,"27,414.00",327,65
+tt0018795,I cosacchi,1928,6/23/1928,Drama,92,USA,English,"George W. Hill, Clarence Brown",Metro-Goldwyn-Mayer (MGM),6.5,614,11,7
+tt0018826,I due timidi,1928,3/1/1929,Comedy,87,France,French,René Clair,Films Albatros,6.8,149,1,2
+tt0018836,La donna divina,1928,12/5/1928,"Drama, Romance",80,USA,Russian,Victor Sjöström,Metro-Goldwyn-Mayer (MGM),6.7,336,5,4
+tt0018839,I dannati dell'oceano,1928,9/29/1928,"Crime, Drama, Film-Noir",76,USA,English,Josef von Sternberg,Paramount Pictures,7.5,"3,860.00",34,51
+tt0018841,La casa sulla Trubnaja,1928,8/31/1928,Comedy,64,Soviet Union,Russian,Boris Barnet,Mezhrabpomfilm,7.3,561,3,5
+tt0018862,Eliso,1928,11/11/1929,"Drama, Romance, War",90,Soviet Union,Sign Languages,Nikoloz Shengelaia,Georgian-Film,6.9,121,1,2
+tt0018876,La moglie del fattore,1928,3/2/1928,"Comedy, Drama, Romance",100,UK,English,Alfred Hitchcock,British International Pictures (BIP),5.9,"2,434.00",45,22
+tt0018879,Oasi dell'amore,1928,6/4/1928,"Drama, Romance",88,USA,Russian,Howard Hawks,Fox Film Corporation,5.9,151,2,3
+tt0018882,Tastatemi il polso,1928,2/26/1928,Comedy,63,USA,Russian,Gregory La Cava,Paramount Pictures,7,152,10,4
+tt0018907,I quattro diavoli,1928,10/11/1929,Drama,100,USA,English,F.W. Murnau,Fox Film Corporation,6.3,134,2,6
+tt0018908,The Four Feathers,1929,6/1/1929,"Adventure, Drama, Romance",81,USA,English,"Merian C. Cooper, Lothar Mendes",Paramount Pictures,6.9,261,8,5
+tt0018909,L'ultima gioia,1928,2/13/1928,"Drama, War",100,USA,English,John Ford,Fox Film Corporation,7.1,623,17,8
+tt0018910,Quattro mura,1928,8/11/1928,Drama,60,USA,Russian,William Nigh,Metro-Goldwyn-Mayer (MGM),3.9,307,3,1
+tt0018927,Eden palace,1928,2/4/1928,"Comedy, Drama",79,USA,English,Lewis Milestone,Feature Productions,6.8,341,10,11
+tt0018935,Sesso Incatenato,1928,4/15/1905,Drama,107,Germany,German,William Dieterle,Essem-Film GmbH,6.7,,5,5
+tt0018937,Capitan Barbablù,1928,2/26/1928,"Action, Adventure, Comedy",78,USA,Russian,Howard Hawks,Fox Film Corporation,6.6,630,8,23
+tt0018972,La casa del boia,1928,7/2/1929,"Drama, Romance, Thriller",80,USA,Russian,John Ford,Fox Film Corporation,6.6,394,8,8
+tt0018990,Heimkehr,1928,10/8/1928,"Drama, Romance, War",78,Germany,German,Joe May,Universum Film (UFA),6.9,154,4,3
+tt0018996,High Treason,1929,3/25/1929,Sci-Fi,95,UK,English,Maurice Elvey,Gaumont British Picture Corporation,6,116,8,12
+tt0019043,Jûjiro,1928,5/11/1928,Drama,81,Japan,Japanese,Teinosuke Kinugasa,Kinugasa Eiga Renmei,7.1,305,3,8
+tt0019067,L'avventuriera,1928,12/1/1928,"Comedy, Drama, Romance",78,USA,English,Robert Z. Leonard,Metro-Goldwyn-Mayer (MGM),6.9,402,13,3
+tt0019071,Crepuscolo di gloria,1928,10/1/1928,"Drama, History, Romance",88,USA,English,Josef von Sternberg,Paramount Pictures,8,"3,282.00",40,43
+tt0019074,Ridi pagliaccio,1928,4/14/1928,Drama,73,USA,Russian,Herbert Brenon,Metro-Goldwyn-Mayer (MGM),7.6,"1,684.00",47,12
+tt0019096,Lights of New York,1928,7/18/1928,"Crime, Drama, Music",57,USA,English,Bryan Foy,Warner Bros.,5.7,735,20,6
+tt0019098,Le sette aquile,1928,10/18/1928,"Drama, Romance, War",80,USA,Russian,"George Fitzmaurice, Frank Lloyd",First National Pictures,6.1,636,7,2
+tt0019109,Primo amore,1928,6/11/1929,"Comedy, Drama, Romance",69,USA,English,Pál Fejös,Universal Pictures,7.8,"1,982.00",18,36
+tt0019127,Maldone,1928,9/14/1928,Drama,102,France,Russian,Jean Grémillon,La Société des Films Charles Dullin,6.8,174,,2
+tt0019130,L'uomo che ride,1928,2/1/1929,"Drama, Horror, Mystery",110,USA,English,Paul Leni,Universal Pictures,7.7,"5,711.00",66,40
+tt0019151,Il teatro di Minnie,1928,3/14/1928,"Comedy, Romance",66,USA,English,Frank Capra,Columbia Pictures,6.8,510,15,7
+tt0019152,The Mating Call,1928,7/21/1928,Drama,72,USA,English,James Cruze,The Caddo Company,6.8,343,25,4
+tt0019182,La canzone della mamma,1927,12/19/1927,Drama,75,USA,Russian,John Ford,Fox Film Corporation,5.3,116,1,3
+tt0019186,Moulin Rouge,1928,4/23/1928,Drama,137,UK,English,Ewald André Dupont,British International Pictures (BIP),6.5,176,8,1
+tt0019195,La donna misteriosa,1928,8/4/1928,"Drama, Romance",96,USA,English,Fred Niblo,Metro-Goldwyn-Mayer (MGM),7.2,"1,151.00",27,16
+tt0019237,Le nostre sorelle di danza,1928,9/1/1928,Drama,85,USA,English,Harry Beaumont,Metro-Goldwyn-Mayer (MGM),6.7,"1,501.00",30,12
+tt0019254,La passione di Giovanna d'Arco,1928,1/18/1929,"Biography, Drama, History",110,France,French,Carl Theodor Dreyer,Société générale des films,8.1,"45,823.00",195,137
+tt0019258,Fascino biondo,1928,10/1/1929,"Comedy, Drama, Romance",78,USA,English,King Vidor,Cosmopolitan Productions,7.5,"2,330.00",22,10
+tt0019286,Tempeste sull'Asia,1928,2/16/1962,"Drama, War",127,Soviet Union,Russian,Vsevolod Pudovkin,Mezhrabpomfilm,7.1,"1,803.00",14,15
+tt0019290,Il potere della stampa,1928,10/31/1928,Drama,62,USA,English,Frank Capra,Columbia Pictures,6.4,228,7,4
+tt0019304,The Racket,1928,11/1/1928,"Crime, Drama, Film-Noir",84,USA,English,Lewis Milestone,The Caddo Company,6.7,"1,099.00",28,14
+tt0019312,La danzatrice rossa,1928,12/2/1928,"Drama, Romance",103,USA,Russian,Raoul Walsh,Fox Film Corporation,6.8,102,4,4
+tt0019325,Riley the Cop,1928,11/25/1928,"Comedy, Drama",68,USA,Russian,John Ford,Fox Film Corporation,6,168,4,2
+tt0019335,Rose-Marie,1928,2/11/1928,Drama,70,USA,English,Lucien Hubbard,Metro-Goldwyn-Mayer (MGM),3.5,123,3,2
+tt0019344,Tristana e la maschera,1928,1/7/1928,Drama,97,USA,Russian,Raoul Walsh,Gloria Swanson Pictures,7.2,"2,519.00",23,18
+tt0019374,Shiraz,1928,10/21/1929,"Drama, History, Romance",97,"India, UK, Germany",Russian,Franz Osten,Pro Patria Films,7,229,4,9
+tt0019379,Maschere di celluloide,1928,4/14/1930,"Comedy, Romance",83,USA,Russian,King Vidor,Metro-Goldwyn-Mayer (MGM),7.6,"3,458.00",37,15
+tt0019388,Il cantante pazzo,1928,4/19/1929,"Musical, Drama",105,USA,English,Lloyd Bacon,Warner Bros.,6.2,206,,6
+tt0019400,The Smart Set,1928,3/24/1928,"Comedy, Romance, Sport",80,USA,English,Jack Conway,Metro-Goldwyn-Mayer (MGM),6.2,976,9,1
+tt0019412,A rotta di collo,1928,12/10/1928,"Action, Comedy, Family",85,USA,English,Ted Wilde,The Harold Lloyd Corporation,7.7,"3,178.00",33,36
+tt0019415,L'inafferrabile,1928,1/20/1930,"Romance, Thriller",150,Germany,German,Fritz Lang,Fritz Lang-Film,7.6,"3,062.00",28,46
+tt0019421,Io... e il ciclone,1928,9/17/1928,"Action, Comedy, Drama",70,USA,English,"Charles Reisner, Buster Keaton",Buster Keaton Productions,7.9,"12,809.00",79,69
+tt0019429,L'angelo della strada,1928,4/12/1905,Drama,102,USA,Russian,Frank Borzage,Fox Film Corporation,7.4,"2,090.00",29,
+tt0019434,Femmine del mare,1928,11/12/1928,"Action, Adventure, Drama",93,USA,English,"Frank Capra, Irvin Willat",Columbia Pictures,6.1,239,4,5
+tt0019451,Nella tempesta,1928,5/27/1928,"Drama, Romance",102,USA,English,"Sam Taylor, Lewis Milestone",Feature Productions,6.8,347,13,6
+tt0019462,Quella certa cosa,1928,1/1/1928,"Comedy, Drama, Romance",69,USA,English,Frank Capra,Columbia Pictures,6,227,7,7
+tt0019480,Tire au flanc,1928,7/18/1928,Comedy,87,France,French,Jean Renoir,Pierre Braunberger,6.5,213,5,2
+tt0019489,The Trail of '98,1928,3/20/1928,"Action, Adventure, Drama",87,USA,English,Clarence Brown,Metro-Goldwyn-Mayer (MGM),6.9,353,14,4
+tt0019509,Underground,1928,7/1/1928,"Drama, Romance",84,UK,English,Anthony Asquith,British Instructional Films (BIF),7.3,413,8,16
+tt0019532,I vichinghi,1928,4/13/1905,"Action, Adventure, History",90,USA,English,Roy William Neill,Technicolor,6.6,346,13,4
+tt0019553,Nel gorgo del peccato,1927,10/1/1927,Drama,94,USA,Russian,Victor Fleming,Paramount Pictures,6.5,131,5,6
+tt0019557,Il fiume stanco,1929,2/10/1929,"Drama, Romance",86,USA,English,Frank Lloyd,First National Pictures,6.1,376,15,4
+tt0019558,Sinfonia nuziale,1928,1/3/1930,Drama,113,USA,English,Erich von Stroheim,Paramount Famous Lasky Corporation,7.5,,17,21
+tt0019563,La serpe di Zanzibar,1928,11/24/1928,"Drama, Mystery",65,USA,English,Tod Browning,Metro-Goldwyn-Mayer (MGM),7.2,"1,582.00",34,18
+tt0019571,Mentre la città dorme,1928,9/15/1928,"Crime, Drama",66,USA,English,Jack Conway,Metro-Goldwyn-Mayer (MGM),6.3,151,4,2
+tt0019574,Ombre bianche,1928,4/12/1905,"Drama, Romance",88,USA,English,"W.S. Van Dyke, Robert J. Flaherty",Metro-Goldwyn-Mayer (MGM),6.9,756,19,6
+tt0019585,Il vento,1928,4/12/1905,"Drama, Romance, Thriller",95,USA,English,Victor Sjöström,Metro-Goldwyn-Mayer (MGM),8,"5,980.00",49,31
+tt0019591,Il destino,1928,12/15/1928,Drama,98,USA,English,Clarence Brown,Metro-Goldwyn-Mayer (MGM),7.2,"1,355.00",17,10
+tt0019609,Il cadavere vivente,1929,3/26/1929,Drama,82,"Germany, Soviet Union",German,Fyodor Otsep,Mezhrabpomfilm,6.9,116,3,1
+tt0019611,Zvenigora,1928,5/8/1928,"Drama, Fantasy",68,Soviet Union,Russian,Aleksandr Dovzhenko,Mosfilm,7.1,819,4,12
+tt0019629,La aldea maldita,1930,12/8/1930,Drama,57,Spain,Spanish,Florián Rey,Florián Rey-Pedro Larrañaga,7,188,3,13
+tt0019630,Alibi,1929,4/20/1929,Crime,91,USA,English,Roland West,Feature Productions,5.8,,19,12
+tt0019644,Applause,1929,1/4/1930,"Drama, Musical",80,USA,English,Rouben Mamoulian,Paramount Pictures,7,"1,266.00",3,20
+tt0019646,L'argent,1928,12/25/1928,"Drama, Romance",195,France,French,Marcel L'Herbier,Société des Cinéromans,7.6,854,10,17
+tt0019649,Arsenale,1929,11/1/1967,"Drama, War",90,Soviet Union,Russian,Aleksandr Dovzhenko,Vseukrainske Foto Kino Upravlinnia (VUFKU),7.3,"1,805.00",15,21
+tt0019655,Asfalto,1929,3/12/1929,"Crime, Drama, Romance",90,Germany,German,Joe May,Universum Film (UFA),7.4,"1,328.00",18,18
+tt0019658,Atlantic,1929,11/15/1929,Drama,87,UK,English,Ewald André Dupont,British International Pictures (BIP),5.5,187,18,5
+tt0019684,Behind That Curtain,1929,6/30/1929,Mystery,91,USA,English,Irving Cummings,Fox Film Corporation,4.9,386,31,8
+tt0019690,Big News,1929,9/7/1929,"Comedy, Crime, Mystery",75,USA,English,Gregory La Cava,Pathé Exchange,5.4,203,13,5
+tt0019699,La guardia nera,1929,5/22/1929,"Adventure, Drama",93,USA,English,John Ford,Fox Film Corporation,5.6,258,8,
+tt0019702,Ricatto,1929,10/6/1929,"Crime, Thriller",85,UK,English,Alfred Hitchcock,British International Pictures (BIP),7,"9,412.00",98,65
+tt0019725,Broadway,1929,4/30/1930,"Crime, Music, Romance",104,USA,English,Pál Fejös,Universal Pictures,6.2,339,13,8
+tt0019726,Ragazze d'America,1929,1/20/1930,"Drama, Musical",86,USA,English,Mervyn LeRoy,First National Pictures,6.4,119,6,2
+tt0019729,La canzone di Broadway,1929,6/6/1929,"Drama, Musical, Romance",100,USA,English,Harry Beaumont,Metro-Goldwyn-Mayer (MGM),5.7,"6,327.00",85,35
+tt0019735,Cercasi avventura,1929,5/2/1929,"Drama, Mystery, Thriller",90,USA,English,F. Richard Jones,The Samuel Goldwyn Company,6.4,839,28,17
+tt0019745,La Canarina Assassinata,1929,4/12/1905,"Crime, Drama, Mystery",82,USA,English,"Malcolm St. Clair, Frank Tuttle",Paramount Pictures,6,539,21,14
+tt0019746,Le capitaine Fracasse,1929,2/15/1929,"Adventure, Drama",92,France,French,"Alberto Cavalcanti, Henry Wulschleger",Lutèce Films,6.7,169,5,13
+tt0019777,The Cocoanuts,1929,8/3/1929,"Comedy, Musical",96,USA,English,"Robert Florey, Joseph Santley",Paramount Pictures,7,"6,900.00",71,43
+tt0019785,L'isola del diavolo,1929,11/3/1929,Drama,86,USA,English,Wesley Ruggles,The Samuel Goldwyn Company,6.4,332,15,3
+tt0019788,Coquette,1929,4/6/1929,"Drama, Romance",76,USA,English,Sam Taylor,Pickford Corporation,5.8,"1,983.00",38,11
+tt0019796,Daigaku wa detakeredo,1929,9/6/1929,Comedy,70,Japan,Spanish,Yasujirô Ozu,Shochiku Kinema (Kamata),6.4,390,6,6
+tt0019798,La danza della vita,1929,8/16/1929,"Drama, Musical, Romance",115,USA,English,"John Cromwell, A. Edward Sutherland",Paramount Pictures,6.5,261,9,3
+tt0019800,Funamboli,1929,7/13/1929,Drama,75,USA,English,Lothar Mendes,Paramount Pictures,5.9,110,12,1
+tt0019811,Notti nel deserto,1929,3/9/1929,"Adventure, Drama, Romance",62,USA,English,William Nigh,Metro-Goldwyn-Mayer (MGM),6.5,"1,074.00",19,3
+tt0019815,Il tenente di Napoleone,1929,12/27/1929,"Music, Romance, War",97,USA,English,Sidney Franklin,Metro-Goldwyn-Mayer (MGM),6.1,104,4,2
+tt0019823,Disraeli,1929,11/1/1929,"Biography, Drama, History",90,USA,English,Alfred E. Green,Warner Bros.,6.2,"1,034.00",24,17
+tt0019824,Trafalgar,1928,12/26/1928,"Drama, History, Romance",99,USA,English,Frank Lloyd,First National Pictures,6.2,651,16,8
+tt0019839,The Duke Steps Out,1929,3/16/1929,"Comedy, Drama, Romance",62,USA,Spanish,James Cruze,Metro-Goldwyn-Mayer (MGM),3.1,116,3,2
+tt0019843,Dinamite,1929,12/13/1929,Drama,129,USA,English,Cecil B. DeMille,Metro-Goldwyn-Mayer (MGM),7,382,15,6
+tt0019850,Erotikon,1929,2/27/1929,"Drama, Romance",85,Czechoslovakia,Czech,Gustav Machatý,Gem-Film,7.2,481,4,8
+tt0019852,La valanga,1929,5/11/1929,"Drama, Romance",71,USA,English,Ernst Lubitsch,Joseph M. Schenck Productions,6.8,445,13,9
+tt0019856,Evangelina,1929,8/24/1929,Drama,87,USA,English,Edwin Carewe,Edwin Carewe Productions,6.6,132,6,5
+tt0019884,Diavoli volanti,1929,4/13/1905,"Action, Adventure, Romance",110,USA,English,Frank Capra,Columbia Pictures,5.9,255,12,3
+tt0019886,La flotta del cielo,1929,1/19/1929,"Adventure, Drama, Romance",100,USA,English,George W. Hill,Metro-Goldwyn-Mayer (MGM),6.6,232,12,
+tt0019889,The Flying Scotsman,1929,5/1/1929,"Crime, Drama",50,UK,English,Castleton Knight,British International Pictures (BIP),6,106,8,3
+tt0019901,Una donna nella luna,1929,5/8/1930,"Comedy, Drama, Romance",156,Germany,German,Fritz Lang,Universum Film (UFA),7.3,"2,899.00",35,35
+tt0019909,Fräulein Else,1929,3/8/1929,Drama,90,Germany,German,Paul Czinner,Elisabeth Bergner Poetic Film Co.,6.9,132,3,1
+tt0019929,The Girl in the Show,1929,8/31/1929,Comedy,82,USA,English,Edgar Selwyn,Metro-Goldwyn-Mayer (MGM),5.2,115,6,13
+tt0019933,Glorifying the American Girl,1929,12/7/1929,"Comedy, Drama, Musical",95,USA,English,Millard Webb,Paramount Pictures,5.8,621,3,5
+tt0019935,Donna pagana,1928,3/11/1929,Drama,113,USA,English,Cecil B. DeMille,C.B. DeMille Productions,7.2,687,27,10
+tt0019936,Gold Diggers of Broadway,1929,8/30/1929,"Comedy, Musical",101,USA,English,Roy Del Ruth,Warner Bros.,6.7,143,9,2
+tt0019939,Goluboy ekspress,1929,12/20/1929,Drama,62,Soviet Union,Russian,Ilya Trauberg,Sovkino,6.4,103,1,4
+tt0019945,Il bandito e la signorina,1929,3/17/1930,"Action, Romance, Western",72,USA,English,Reginald Barker,First National Pictures,5.2,117,6,1
+tt0019946,Il gran Gabbo,1929,9/12/1929,"Drama, Musical, Romance",92,USA,English,"James Cruze, Erich von Stroheim",James Cruze Productions,6.1,694,28,17
+tt0019949,The Greene Murder Case,1929,8/11/1929,"Drama, Mystery",69,USA,English,Frank Tuttle,Paramount Pictures,6.6,285,12,10
+tt0019957,Half Marriage,1929,10/13/1929,"Drama, Romance",68,USA,English,William J. Cowen,RKO Radio Pictures,5.8,112,7,1
+tt0019959,Alleluja!,1929,8/20/1929,"Drama, Musical",109,USA,English,King Vidor,Metro-Goldwyn-Mayer (MGM),6.8,,37,28
+tt0019976,Gli eroi del deserto,1929,1/5/1930,"Action, Crime, Drama",68,USA,Spanish,William Wyler,Universal Pictures,7.2,520,21,8
+tt0019979,Her Private Affair,1929,9/28/1929,Drama,70,USA,English,Paul L. Stein,Pathé Exchange,5.1,117,9,2
+tt0019983,High Voltage,1929,6/29/1929,"Crime, Drama, Romance",63,USA,English,Howard Higgin,Pathé Exchange,5.3,289,18,4
+tt0019992,The Hole in the Wall,1929,4/27/1929,"Drama, Mystery",73,USA,English,Robert Florey,Paramount Pictures,5.8,134,11,5
+tt0019993,Hollywood che canta,1929,11/23/1929,"Comedy, Music",130,USA,English,"Charles Reisner, Christy Cabanne",Metro-Goldwyn-Mayer (MGM),5.9,"1,827.00",44,11
+tt0020004,Sette passi verso Satana,1929,4/7/1929,"Comedy, Crime, Drama",77,USA,English,Benjamin Christensen,First National Pictures,6.6,310,10,6
+tt0020011,Il bacillo dell'amore,1929,3/20/1929,Drama,66,Germany,German,Robert Land,Super-Film GmbH,6.1,110,3,1
+tt0020014,The Idle Rich,1929,6/15/1929,Comedy,80,USA,English,William C. de Mille,Metro-Goldwyn-Mayer (MGM),5.9,118,6,2
+tt0020018,Notte di tradimento,1928,1/20/1929,"Action, Adventure, Romance",95,USA,Italian,Irving Cummings,Fox Film Corporation,5.5,898,29,28
+tt0020025,The Informer,1929,10/17/1929,Drama,83,UK,English,Arthur Robison,British International Pictures (BIP),7,178,5,1
+tt0020030,La maschera di ferro,1929,2/21/1929,"Adventure, Drama, History",95,USA,English,Allan Dwan,Elton Corporation,7,"1,139.00",21,15
+tt0020034,La romanza dell'amore,1929,12/6/1929,"Comedy, Musical, Romance",93,USA,English,Sam Wood,Metro-Goldwyn-Mayer (MGM),6.1,269,9,1
+tt0020062,Il bacio,1929,11/16/1929,"Romance, Drama",62,USA,English,Jacques Feyder,Metro-Goldwyn-Mayer (MGM),6.9,938,19,9
+tt0020075,"Laila, la figlia del nord",1929,10/12/1929,"Drama, Romance",165,Norway,Spanish,George Schnéevoigt,Lunde Film,7.3,214,6,5
+tt0020078,Erik il grande,1929,6/11/1930,"Drama, Horror, Romance",60,USA,English,Pál Fejös,Universal Pictures,6.7,317,3,11
+tt0020080,The Last Warning,1928,12/25/1928,"Horror, Mystery, Thriller",89,USA,English,Paul Leni,Universal Pictures,6.7,441,9,17
+tt0020081,L'onestà della signora Cheyney,1929,7/6/1929,"Comedy, Drama",94,USA,English,Sidney Franklin,Metro-Goldwyn-Mayer (MGM),6.1,381,14,
+tt0020092,The Letter,1929,9/7/1929,Drama,65,USA,English,Jean de Limur,Paramount Pictures,6.7,619,31,20
+tt0020099,Linda,1929,4/1/1929,Drama,75,USA,English,Dorothy Davenport,Mrs. Wallace Reid Productions,6.8,100,4,1
+tt0020103,La porta chiusa,1929,11/16/1929,"Drama, Mystery, Thriller",74,USA,English,George Fitzmaurice,George Fitzmaurice Productions,6,429,24,8
+tt0020112,Il principe consorte,1929,9/19/1930,"Comedy, Musical, Romance",107,USA,French,Ernst Lubitsch,Paramount Pictures,7.1,"1,924.00",30,29
+tt0020114,Trappola d'amore,1929,8/4/1929,Comedy,71,USA,English,William Wyler,Universal Pictures,6.5,169,13,2
+tt0020122,La stella della fortuna,1929,1/18/1930,"Drama, Romance",100,USA,English,Frank Borzage,Fox Film Corporation,7.8,"1,144.00",19,14
+tt0020126,Madame X,1929,8/17/1929,Drama,95,USA,English,Lionel Barrymore,Metro-Goldwyn-Mayer (MGM),6,431,3,1
+tt0020142,L'isola del peccato,1929,1/21/1929,"Drama, Romance",110,"UK, Isle Of Man",English,Alfred Hitchcock,British International Pictures (BIP),6.2,"2,555.00",50,32
+tt0020143,La compagnia d'assalto,1929,8/24/1929,"Drama, Musical, Romance",111,USA,English,Robert Z. Leonard,Cosmopolitan Productions,6.2,"1,148.00",18,3
+tt0020144,Marianne,1929,7/23/1931,Drama,80,USA,English,Robert Z. Leonard,Cosmopolitan Productions,5.6,385,3,13
+tt0020163,Uomini di domenica,1930,2/4/1930,"Comedy, Drama, Romance",73,Germany,Spanish,"Robert Siodmak, Edgar G. Ulmer",Film Studio 1929,7.4,"2,649.00",19,46
+tt0020166,Rosa del Messico,1929,12/26/1929,"Drama, Romance",60,USA,Spanish,Erle C. Kenton,Columbia Pictures,5.7,151,8,1
+tt0020182,Il conte di Montecristo,1929,4/12/1905,Adventure,223,France,French,Henri Fescourt,"Grands Films Européens, Les",7,111,5,3
+tt0020193,Il viaggio di mamma Krausens verso la felicità,1929,12/30/1929,Drama,121,Germany,German,Phil Jutzi,Prometheus-Film-Verleih und Vertriebs-GmbH,7.3,246,2,2
+tt0020197,Il drago rosso,1929,8/10/1929,Thriller,80,USA,English,Rowland V. Lee,Rowland V. Lee Productions,6.7,187,7,6
+tt0020198,L'isola misteriosa,1929,10/5/1929,"Adventure, Romance, Sci-Fi",95,USA,English,"Lucien Hubbard, Benjamin Christensen",Metro-Goldwyn-Mayer (MGM),6.1,562,21,19
+tt0020210,Navy Blues,1929,12/20/1929,"Comedy, Drama",77,USA,English,Clarence Brown,Metro-Goldwyn-Mayer (MGM),5.2,528,8,1
+tt0020217,Notti di New York,1929,12/28/1929,"Crime, Drama, Music",82,USA,English,Lewis Milestone,Joseph M. Schenck Productions,5.7,169,11,13
+tt0020223,L'arca di Noè,1928,8/23/1929,"Drama, War",135,USA,English,"Michael Curtiz, Darryl F. Zanuck",Warner Bros.,6.5,656,25,16
+tt0020228,Les nouveaux messieurs,1929,4/5/1929,Comedy,135,France,French,Jacques Feyder,Films Albatros,6.8,143,3,4
+tt0020230,La nuova Babilonia,1929,4/12/1905,"Drama, History",120,Soviet Union,Russian,"Grigoriy Kozintsev, Leonid Trauberg",Sovkino,7.3,726,7,13
+tt0020232,Oblomok imperii,1929,10/28/1929,Drama,96,Soviet Union,Russian,Fridrikh Ermler,Sovkino,7.3,332,1,8
+tt0020238,On with the Show!,1929,7/13/1929,"Musical, Romance",104,USA,English,Alan Crosland,Warner Bros.,5.8,259,15,4
+tt0020247,Ragazze americane,1929,9/8/1929,"Drama, Comedy",76,USA,English,Jack Conway,Metro-Goldwyn-Mayer (MGM),6,603,20,9
+tt0020253,L'isola del sole,1929,4/27/1929,Drama,83,USA,English,W.S. Van Dyke,Metro-Goldwyn-Mayer (MGM),6.9,315,17,4
+tt0020269,Piccadilly,1929,2/1/1929,"Drama, Crime",92,UK,English,Ewald André Dupont,British International Pictures (BIP),7.1,"1,353.00",3,25
+tt0020286,Prapancha Pash,1929,6/30/1905,"Adventure, Drama, Romance",74,"UK, India, Germany",English,Franz Osten,British Instructional Films (BIF),6.5,710,8,14
+tt0020293,"Prividenie, kotoroe ne vozvrashchaetsya",1930,3/15/1930,Drama,67,Soviet Union,Spanish,Abram Room,Sovkino,6.7,181,2,
+tt0020298,La regina Kelly,1932,10/18/1932,Drama,101,USA,Spanish,"Erich von Stroheim, Richard Boleslawski",Gloria Swanson Pictures,7.1,"3,049.00",22,19
+tt0020305,The Racketeer,1929,11/9/1929,"Crime, Drama, Thriller",68,USA,English,Howard Higgin,Pathé Exchange,5.5,353,21,6
+tt0020320,Redskin,1929,2/23/1929,"Western, Adventure, Drama",82,USA,English,Victor Schertzinger,Paramount Pictures,6.8,157,7,8
+tt0020332,Rio Rita,1929,9/15/1929,"Adventure, Music, Romance",140,USA,English,Luther Reed,RKO Radio Pictures,6.1,691,22,10
+tt0020335,Il fiume,1928,10/6/1929,"Drama, Romance",84,USA,English,Frank Borzage,Fox Film Corporation,7.2,524,9,12
+tt0020336,Arcobaleno,1930,2/23/1930,"Comedy, Drama, Musical",96,USA,English,Charles Reisner,Metro-Goldwyn-Mayer (MGM),6,204,11,4
+tt0020344,Rotaie,1929,3/1/1931,Drama,91,Italy,Italian,Mario Camerini,S.A.C.I.A.,6.9,102,5,2
+tt0020358,Sally,1929,1/12/1930,Musical,103,USA,English,John Francis Dillon,First National Pictures,6.1,,15,
+tt0020359,Saluto militare,1929,9/1/1929,"Drama, Romance, Sport",84,USA,English,"David Butler, John Ford",Fox Film Corporation,5.5,156,3,2
+tt0020364,"Lui, lei, l'altra",1929,10/25/1929,"Comedy, Romance",63,USA,English,A. Edward Sutherland,Paramount Pictures,6,191,12,3
+tt0020388,Seven Keys to Baldpate,1929,12/25/1929,"Comedy, Mystery, Thriller",72,USA,English,Reginald Barker,RKO Radio Pictures,6.1,267,11,5
